@@ -3,6 +3,10 @@ A student-authored guide to help you navigate SJSU's computer science program.
 
 This guide can also be read on [Google Docs](https://docs.google.com/document/d/e/2PACX-1vRoO0eoezc97xF7Gvq3djVyYtB5gN0HfC7cFjCeFqY-dLTSaziCgdhXPJj1Jmbb9b9U22REtwMrumJM/pub).
 
+> :warning: **Warning:** This marker indicates that the text is especially important.
+
+> :rat: **Rat:** This is a rat.
+ 
 ## Table of Contents
 1. [Introduction](#introduction)
     1. [Overview](#overview)
@@ -48,9 +52,9 @@ This guide can also be read on [Google Docs](https://docs.google.com/document/d/
 
 ## Introduction 
 ### Overview
-Hello! This guide was written to consolidate and organize information about SJSU’s Computer Science program to help you best navigate your CS degree.
-	
-I am not an advisor, so take my words with a grain of salt. Verify everything yourself and check with an advisor if possible. Program requirements can and do change, so do your due diligence if you’re reading in the future.
+Hello! This student-authored guide serves to consolidate and organize information and advice for SJSU's Computer Science program.
+
+> :warning: **Note:** I am not an advisor. Anything written in this guide should be taken with a grain of salt as a precaution and double checked with an advisor. Program requirements can and do change, so do your due diligence.
 
 ### Contact
 You can contact me at sjsucsguide@gmail.com.
