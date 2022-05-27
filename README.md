@@ -1,5 +1,5 @@
 # SJSU CS Guide
-A student-authored guide to SJSU's computer science program.
+A student-authored guide to help you navigate SJSU's computer science program.
 
 ## Table of Contents
 <details>
@@ -291,6 +291,46 @@ Regardless of how the professor whose class you’re interested in grants add co
         
 Receiving an add code as a non-graduating senior is extremely inconsistent, especially for popular courses/professors. Make sure you’re already enrolled for a backup class that you can later drop if you receive an add code for the desired course.
 
+## Transfers
+### Transfer Registration
+Transfers I’ve talked to were able to enroll in classes before their final CC quarters were over and had their final transcripts sent in. For a more specific reference, they were able to register for Fall 2021 classes starting June 9th, 2021.
+
+Your registration date will be later than all students who are already attending, but this actually isn’t as bad as it sounds. You’re essentially locked from taking CS electives anyways since all of them require 146—assuming you took the CS 46B and CS 47 equivalencies at your CC, the two most relevant CS classes you’ll have access to are CS 146 (Data Structures and Algorithms) and CS 147 (Computer Architecture). The department knows that these are major required courses and makes sure to provide plenty of sections for transfers and 4-year students alike.
+
+### Transfer Advising
+Advising for transfer students (especially if you start in a Fall semester) is weird. During summer, the traditional advisors list are (hopefully) enjoying their summers and aren’t obligated to advise. Hence, if the timing of your class enrollment period falls during the summer, refer to the CS advising page for who to contact for advising during the summer (usually a specific email or the CS department mailbox).
+
+If you’re seeking advice not during the summer and you haven’t passed CS 146 (which should be the norm if you’re an incoming transfer), I believe you should contact COSAC for advising. You can find more details on advising in the HOLDS section.
+
+### Choosing Your First Semester Classes
+CS 146 is a must-have. It single handedly unlocks the vast majority of CS electives and CS major requirements, so take it as soon as possible.
+
+**Major Requirements with no CS 146 prereq*
+* CS 151: Object-Oriented Programming
+* CS 154: Formal Languages & Computability
+* CS 147: Computer Architecture
+
+From there, the rest of your class list depends on how much time and effort you’re willing to spend on school. I’ll refer to the same 2-year plan linked above. My suggestions are as follows:
+* Take 4-5 classes your first semester, and take it a little easier as the CC → university transition can be difficult (rigor, environment, etc.)
+* Take CS 146 as soon as possible
+* Taking CS 151 early won’t hurt, and you can essentially treat it like an “Advanced X” class where you mainly learn about good object-oriented programming practices in X language (my professor used Java, but I hear some professors use other common languages)
+* In addition to CS 146, I’d suggest taking at most two more “difficult” classes (and strongly suggest only one). Fill the rest in with easier classes. Of course, you know your capabilities the best, so you make the call at the end of the day.
+* Difficult classes include: Advanced Math (MATH 32, 142, 161A), CS 147
+* Medium difficulty classes: CS 151, CS 154 (heavily professor dependent, see the Major Requirement Difficulty section in COURSES)
+* Easy (but potentially time consuming) classes include: CS 100W, PHIL 134, Area R, Area S
+* You can see my full thoughts/recommendations on the classes (and Areas R/S) above in the GE RECOMMENDATIONS subsection and PROGRAM OVERVIEW section.
+* Some example schedules:
+* CS 146, CS 147, CS 100W, PHIL 134, Area R
+* CS 146, Advanced Math, CS 100W, Area R, CS 151
+* CS 146, CS 151, CS 100W, PHIL 134, Area S
+
+### 2-Year Plan
+The CS department has a 2-year plan for transfer students. The 2020-21 plan assumes you took 46A/B in a different language at CC and need 49J, and thus suggests taking 146 in your second semester. Their plan also assumes you have a PE-waiver. I’m not sure CS majors could get a waiver the last time I checked, but things might’ve changed, so I’d ask an advisor. My advice for “first semester classes” below differs slightly.
+
+Your required classes are the same as a 4-year student excluding lower division GEs and basic major classes (CS 46A, CS 46B, CS 47, Math 42, PHYS 50, PHYS 51, MATH 30, MATH 31). You can find a detailed list of the classes you need in the PROGRAM OVERVIEW section, and advice for building a plan can be found in the PLANNING section.
+
+CS transfers, unlike those who enter as freshman, do qualify for a PE waiver. This information can be found here.
+
 ## Outside the Classroom
 ### Student Organizations
 Student organizations are great networking opportunities and offer a sense of community often devoid given SJSU’s “commuter school” status. Many CS/engineering-oriented organizations host speakers and provide easy access to projects, career guidance, and internship/job opportunities.
@@ -298,11 +338,23 @@ Student organizations are great networking opportunities and offer a sense of co
 You can find all SJSU recognized clubs here. Google search SJSU Clubs and Groups if the link breaks. Note that many, many of these clubs are inactive.
 
 ### Internships
+
 ### Networking
+This world runs on nepotism whether you like it or not. As social creatures, we’re more likely to be lenient and want to do favors for people we know/like.
+
+This guide really isn’t meant to give networking advice, but I will say that having a network makes it far easier to find job opportunities and whatnot. Anecdotally, networking helped the co-contributor land herself an internship her Sophomore year. As she says: “Connect with people on LinkedIn, reach out for help, and grow your circle.”
+
+I’d like to add that professors are also invaluable to have in a network and may present opportunities if you have a good relationship with them and ask nicely.
+
+Also, networking doesn’t just mean sending out LinkedIn requests to every professional profile you come across in hopes that they publicly post a job opportunity or something. It’s often quality over quantity. Make genuine professional connections: be curious/interested in a professional’s career and ask questions, for example.
+
+If you don’t want to go all out with networking (in my personal opinion, doing so feels artificial at times), that’s fine too. Note that you will have to rely on your personal skills more (resume, projects, LeetCode, interview ability).
 
 ## Miscellaneous
 ### Switching into CS
-### Transfers
+Due to multiple people asking, I’m writing a small section on how to switch into CS. The most updated information can be found with the search query above. PLEASE CHECK THESE REQUIREMENTS YOURSELF AND MEET WITH AN ADVISOR (generally one from your major) IF YOU HAVE ANY DOUBTS.
+
+The process to switch majors into CS is deliberately difficult. Demand for the major is so high relative to supply that I can’t imagine advisors aren’t burned out facilitating the process for likely hundreds of prospects every semester, so don’t take it personally if you feel there are significant delays during communication with advisors.
 
 ### The SJSU Job Security Myth
 I see this and similar sentiments thrown around a lot and thought I’d address it. Here’s the harsh truth (in my opinion): SJSU’s C.S. program is objectively average, or at least not as amazing as some people tout it to be. The program is solid but falls short compared to the mid to higher ranked UCs and similarly ranked private programs. Classes are easier due to more lenient curves and standards, natural results of laxer acceptance rates. The program itself does not go as technically in-depth as more difficult programs, research is few and far between, and elective options seem lacking at times.
@@ -327,6 +379,7 @@ Peer Connections tutors most subjects but doesn’t go too deep into CS upper di
 COSAC will cover more CS upper division courses but won’t cover anything non-science.
 
 ### Office Hours
+Go to office hours.
 ### Email Etiquette
 BEFORE YOU SEND A SINGLE EMAIL, please read this. Your professors will thank you.
 
