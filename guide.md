@@ -34,7 +34,7 @@ This guide can also be read on [Google Docs](https://docs.google.com/document/d/
     3. [Choosing Your First Semester Classes](#firstsemclasses)
     4. [2-Year Plan](#twoyearplan)
 8. [Outside the Classroom](#outsidetheclassroom)
-    1. [Student Organizations](#studentorgs)
+    1. [Student Organizations](#studentorganizations)
     2. [Internships](#internships)
     3. [Networking](#networking)
 9. [Miscellaneous](#miscellaneous)
@@ -59,10 +59,11 @@ Please do not hesitate to write to me if you catch errors, have questions, or wo
 
 ### Abbreviations
 | Term  | Definition |
-|-------|--------------------------------------------------------------------|
+|:-------|:--------------------------------------------------------------------|
 | CC    | Community College                                                  |
 | COSAC | College of Science Advising Center                                 |
 | GE    | General Education, requirements that are shared across all majors. |
+| <img width=100/>| <img width=1000/> |
 
 > :warning: **Warning:** This will be on the exam.
 
@@ -77,8 +78,8 @@ So let me reiterate: **it is not a race**. Be honest and realistic about your ow
 Let me reiterate that programs do change, and that the program information below may not be perfectly accurate. Please do your due diligence.
 ### University Requirements (GEs) <a name="ges"></a>
 #### Lower Division GEs
-| Code | Area                                | Notes                              |
-|------|-------------------------------------|------------------------------------|
+| GE   | Area                                | Notes                              |
+|:-----:|:------------------------------------|:-----------------------------------|
 | A1   | Oral Communication                  |                                    |
 | A2   | Written Communication               |                                    |
 | A3   | Critical Thinking and Writing       |                                    |
@@ -92,22 +93,28 @@ Let me reiterate that programs do change, and that the program information below
 | D2   | Comparative Systems                 |                                    |
 | D3   | Social Issues                       |                                    |
 | E    | Human Understanding and Development |                                    |
+| <img width=20/>| <img width=300/>| <img width=1000/> |
 #### Upper Division GEs
-| Code | Area                                          | Notes |
-|------|-----------------------------------------------|-------|
+| GE | Area                                          | Notes |
+|:-----:|:----------------------------------------------|:------|
 | R    | Earth And Environment                         |       |
 | S    | Self, Society, & Quality in the U.S.          |       |
 | V    | Culture, Civilization, & Global Understanding |       |
-| Z    |                                               |       |
+| Z    | Written Communication 2                       |       |
+|<img width=20/> | <img width=250/>| <img width=1100/> |
+
 ### Major Preparation <a name="majorprep"></a>
+
 #### Required Classes
-| Code     | Area             | Notes |
-|----------|------------------|-------|
+| Code    | Course            | Notes |
+|:-----------:|:------------------------------------|:-------|
 | MATH 30  | Calculus 1       |       |
 | MATH 31  | Calculus 2       |       |
 | MATH 42  | Discrete Math    |       |
 | MATH 39  | Linear Algebra 1 |       |
-| PHIL 134 |                  |       |
+| PHIL 134 | Computers, Ethics, and Society                 |       |
+|<img width=200/>| <img width=300/>| <img width=1000/> |
+
 #### Approved Science Electives (CSCI Science Electives)
 Formal Requirement:
 * 14 units total are required
@@ -124,28 +131,30 @@ How to Cover:
 * Assuming 7 units from Area B and 3 from Area R, you’ll only need 4 more units at most. That’s one 4-unit science + lab class.
 
 #### Advanced Math (choose 1 of the 3)
-| Code      | Area                               | Notes |
-|-----------|------------------------------------|-------|
+| Code    | Course            | Notes |
+|:-----------|:------------------------------------|:-------|
 | MATH 32   | Calculus 3                         |       |
 | MATH 142  | Introduction to Combinatorics      |       |
 | MATH 161A | Applied Probability and Statistics |       |
+|<img width=150/>| <img width=300/>| <img width=1000/> |
 
 ### Major Requirements <a name="majorrequirements"></a>
 There’s very little wiggle room here. You have to take these classes. I’m separating CS Electives into the next section because you have more freedom to choose classes from a pool, but note that those CS Electives technically fall under “Major Requirements” too.
 
 #### Lower Division Requirements
-| Code      | Area                               | Notes |
-|-----------|------------------------------------|-------|
+| Code    | Course            | Notes |
+|:-----------:|:------------------------------------|:-------|
 | CS 46A    | Introduction to Programming        |       |
 | CS 46B    | Introduction to Combinatorics      |       |
 | MATH 161A | Applied Probability and Statistics |       |
+|<img width=150/>| <img width=300/>| <img width=1000/> |
 
 The lower division requirements are the only CS courses you can transfer from Community Colleges. You’ll easily find CC courses that cover all three of the courses listed above, but not for anything below. See the Community College section for more details.
 
 #### Upper Division Requirements
 
-| Code    | Area                                        | Notes |
-|---------|---------------------------------------------|-------|
+| Code    | Course            | Notes |
+|:---------:|:---------------------------------------------|:-------|
 | CS 146  | Data Structures and Algorithms              |       |
 | CS 147  | Computer Architecture                       |       |
 | CS 149  | Operating Systems                           |       |
@@ -155,6 +164,8 @@ The lower division requirements are the only CS courses you can transfer from Co
 | CS 157A | Introduction to Database Management Systems |       |
 | CS 160  | Software Engineering                        |       |
 | CS 166  | Information Security                        |       |
+|<img width=170/>| <img width=260/>| <img width=1160/> |
+
 ### Electives <a name="electives"></a>
 You'll need to take 14 units of electives. 
 
