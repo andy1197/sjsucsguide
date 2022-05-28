@@ -79,8 +79,15 @@ I realize that this guide places a lot of emphasis on "graduating efficiently", 
 Be honest with yourself about your circumstances, motivations, and capabilities. Find your own pace to pursue your degree at and you'll thrive. I promise.
 
 ## Program
-The program is split into three parts: University Requirements (GEs), Major Preparation, and Major Requirements. 
-Let me reiterate that programs do change, and that the program information below may not be perfectly accurate. Please do your due diligence.
+The diagram below is a rough illustration of the requirements you need to fulfill:
+
+> :warning: **Warning**: Let me reiterate that programs do change, and that the program information below may not be perfectly accurate. Please do your due diligence.
+
+<p align="center">
+  <img width="745" height="595" src="https://user-images.githubusercontent.com/66895883/170821467-486035c4-b945-4f2c-8f8f-656c13176d3a.png">
+</p>
+
+
 
 ### University Requirements (GEs) <a name="ges"></a>
 #### Lower Division GEs
