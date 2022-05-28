@@ -11,7 +11,7 @@ This guide can also be read on [Google Docs](https://docs.google.com/document/d/
 1. [Introduction](#introduction)
     1. [Overview](#overview)
     2. [Contact](#contact)
-    3. [Abbreviations](#abbreviations)
+    3. [Glossary](#glossary)
     4. [README.md](#readmesection)
 3. [Program](#program)
     1. [University Requirements](#ges)
@@ -52,16 +52,16 @@ This guide can also be read on [Google Docs](https://docs.google.com/document/d/
 
 ## Introduction 
 ### Overview
-Hello! This student-authored guide serves to consolidate and organize information and advice for SJSU's Computer Science program.
+Hello! This student-authored guide serves to consolidate information and advice to help you best navigate SJSU's Computer Science program.
 
 > :warning: **Note:** I am not an advisor. Anything written in this guide should be taken with a grain of salt as a precaution and double checked with an advisor. Program requirements can and do change, so do your due diligence.
 
 ### Contact
-You can contact me at sjsucsguide@gmail.com.
+sjsucsguide@gmail.com
 
-Please do not hesitate to write to me if you catch errors, have questions, or would like to contribute.
+Feel free to send an email if you catch errors, have questions, or would like to contribute.
 
-### Abbreviations
+### Glossary
 | Term  | Definition |
 |:-------|:--------------------------------------------------------------------|
 | CC    | Community College                                                  |
@@ -72,29 +72,31 @@ Please do not hesitate to write to me if you catch errors, have questions, or wo
 > :warning: **Warning:** This will be on the exam.
 
 ### README.md <a name="readmesection"></a>
-Please recognize that school, and life in general, really isn’t a race.
+Let me emphasize that school (and life) isn't a race.
 
-I realize that this guide puts a lot of emphasis on the goal of “graduating in four years”, but please don’t feel pressured to do so to the point where you sacrifice important things like mental health or extracurriculars that make you happy. This guide was written by someone who did not need to work while in school. You know your capabilities and responsibilities the best, so take school at a pace that works for you.
+I realize that this guide places a lot of emphasis on "graduating efficiently", but please don't feel pressured to do so to the point where you sacrafice your mental health or activities that make you happy. We all of us have different priorities. School might not be your first, nor does it have to be.
 
-So let me reiterate: **it is not a race**. Be honest and realistic about your own capabilities and take your degree at a pace that allows you to thrive.
+Be honest with yourself about your circumstances, motivations, and capabilities. Find your own pace to pursue your degree at and you'll thrive. I promise.
 
 ## Program
+The program is split into three parts: University Requirements (GEs), Major Preparation, and Major Requirements. 
 Let me reiterate that programs do change, and that the program information below may not be perfectly accurate. Please do your due diligence.
+
 ### University Requirements (GEs) <a name="ges"></a>
 #### Lower Division GEs
 | GE   | Area                                | Notes                              |
 |:-----:|:------------------------------------|:-----------------------------------|
-| A1   | Oral Communication                  |                                    |
-| A2   | Written Communication               |                                    |
+| A1   | Oral Communication                  | most students take COMM 20 (Public Speaking) or COMM 40 (Argumentation and Advocacy)                                 |
+| A2   | Written Communication               | most students take ENGL 1A (First Year Writing)                                |
 | A3   | Critical Thinking and Writing       |                                    |
-| B1   | Physical Science                    |                                    |
-| B2   | Life Science                        |					  |
-| B3   | Laboratory                          | 			                  |
-| B4   | Mathematical Concepts               |                                    |
-| C1   | Arts                                |                                    |
-| C2   | Letters                             |                                    |
+| B1   | Physical Science                    | most physics classes, specific classes from chemistry and geology                                   |
+| B2   | Life Science                        |		most biology and chemistry classes, specific classes from geology and nutrition			  |
+| B3   | Laboratory                          | fulfilled if your other Area B classes have a lab portion (most of them do). If not, there exists 1-unit labs you can take individually		                  |
+| B4   | Mathematical Concepts               | :warning: an "intensive math" courses cover this. Math 30 is a major requirement and is considered an "intensive math" course, ***so you don't have to worry about this requirement***                                   |
+| C1   | Arts                                | music and art                                   |
+| C2   | Letters                             | foreign language studies, english literature/culture studies                                   |
 | D1   | Human Behavior                      |                                    |
-| D2   | Comparative Systems                 |                                    |
+| D2   | Comparative Systems                 | ethic studies                                   |
 | D3   | Social Issues                       |                                    |
 | E    | Human Understanding and Development |                                    |
 | <img width=20/>| <img width=300/>| <img width=1000/> |
@@ -103,8 +105,8 @@ Let me reiterate that programs do change, and that the program information below
 |:-----:|:----------------------------------------------|:------|
 | R    | Earth And Environment                         |       |
 | S    | Self, Society, & Quality in the U.S.          |       |
-| V    | Culture, Civilization, & Global Understanding |       |
-| Z    | Written Communication 2                       |       |
+| V    | Culture, Civilization, & Global Understanding | :warning: PHIL 134 (Computers, Ethics, and Society) is a major requirement and covers Area V, ***so you don't have to worry about this requirement***      |
+| Z    | Written Communication 2                       | :warning: CS 100W (Technical Writing Workshop) is a major requirement and covers Area Z, ***so you don't have to worry about this requirement***      |
 |<img width=20/> | <img width=250/>| <img width=1100/> |
 
 ### Major Preparation <a name="majorprep"></a>
@@ -150,7 +152,7 @@ There’s very little wiggle room here. You have to take these classes. I’m se
 |:-----------:|:------------------------------------|:-------|
 | CS 46A    | Introduction to Programming        |       |
 | CS 46B    | Introduction to Combinatorics      |       |
-| MATH 161A | Applied Probability and Statistics |       |
+| CS 47 | Introduction to Computer Systems |       |
 |<img width=150/>| <img width=300/>| <img width=1000/> |
 
 The lower division requirements are the only CS courses you can transfer from Community Colleges. You’ll easily find CC courses that cover all three of the courses listed above, but not for anything below. See the Community College section for more details.
