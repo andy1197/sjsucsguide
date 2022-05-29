@@ -96,8 +96,11 @@ https://catalog.sjsu.edu/content.php?catoid=12&navoid=4149
 
 #### US123
 US123 is the shorthand for three requirements: US1, US2, and US3. 
+* Area D and US123 are almost always covered at the same time.
+* Courses taken at community colleges can cover US123.
+* If, by some stroke of (bad) luck, you’ve covered US12 but not 3 (this happened to me when I had APUSH and AP Government credit), you can try your hand at the [US3 Waiver Exam](https://www.sjsu.edu/testing/index.php?utm_source=testing&utm_medium=301&utm_campaign=testing-redesign). I can vouch for its difficulty having taken it myself.
 
-All three requirements can be covered by taking HIST 15 (Essentials of U.S. History) and POLS 15 (Essentials of U.S. & California Government). 
+All three requirements can be covered by taking HIST 15 (Essentials of U.S. History) and POLS 15 (Essentials of U.S. & California Government). **This is the most common route**.
 * HIST 15 covers US1, Area D
 * POLS 15 covers US2, US3, Area D
 * Taking these two classes also satisfies the 6-unit Area D requirement. 
@@ -193,7 +196,7 @@ https://www.sjsu.edu/general-education/ge-requirements/upper-division.php
 |<img width=150/>|<img width=300/>|<img width=1000/>|
 
 ### Major Requirements <a name="majorrequirements"></a>
-There’s very little wiggle room here. You have to take these classes. I’m separating CS Electives into the next section because you have more freedom to choose classes from a pool, but note that those CS Electives technically fall under “Major Requirements” too.
+No wiggle room here. These classes are all required.
 
 #### Lower Division Requirements
 | Code    | Course            | Notes |
@@ -203,7 +206,7 @@ There’s very little wiggle room here. You have to take these classes. I’m se
 | CS 47 | Introduction to Computer Systems |       |
 |<img width=150/>| <img width=300/>| <img width=1000/> |
 
-The lower division requirements are the only CS courses you can transfer from Community Colleges. You’ll easily find CC courses that cover all three of the courses listed above, but not for anything below. See the Community College section for more details.
+> :warning: **Note**: The lower division requirements are the only CS courses you can transfer from Community Colleges. You’ll easily find CC courses that cover all three of the courses listed above, but not for anything below. See the [Community College](#communitycollege) section for more details.
 
 #### Upper Division Requirements
 | Code    | Course            | Notes |
@@ -220,7 +223,12 @@ The lower division requirements are the only CS courses you can transfer from Co
 |<img width=170/>| <img width=260/>| <img width=1160/> |
 
 ### Electives <a name="electives"></a>
-You'll need to take 14 units of electives. 
+You'll need to take 14 units of electives. Since (basically) every CS elective is 3 units, **so you'll have to take 5 CS electives.**
+
+I'm not going to list the electives I chose because. 
+
+I made a [template](https://docs.google.com/document/d/1tZjIYEdGjUZg-vztMmSd8zEpPA0KH2yOFF7CaeHGrgE/edit) that allows you to group electives based on interest. 
+
 
 ## Planning
 ### MyProgress
