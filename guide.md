@@ -102,12 +102,16 @@ All three requirements can be covered by taking HIST 15 (Essentials of U.S. Hist
 * POLS 15 covers US2, US3, Area D
 * Taking these two classes also satisfies the 6-unit Area D requirement. 
 
-Other sequences that cover Area D and US123 include:
+<details open>
+<summary>Other sequences that cover Area D and US123</summary>
+ 
 * AFAM 2A + AFAM 2B (African Americans and the Development of America's History and Government)
 * AMS 1A + AMS 1B (American Cultures to 1877, American Cultures 1877 to Present)
 * AAS 33A + AAS 33B (Asian Americans in U.S. History)
 * CCS 10A + CCS 10B (Mexican Americans and the Development of U.S. History and Government)
 * HUM 1A + HUM 1B, HUM 2A, HUM 2B (Humanities Honors, though I wouldn't recommend this program for CS majors). 
+
+</details>
 
 #### Lower Division GEs
 https://www.sjsu.edu/general-education/ge-requirements/lower-division.php
@@ -153,19 +157,32 @@ https://www.sjsu.edu/general-education/ge-requirements/upper-division.php
 |<img width=200/>| <img width=300/>| <img width=1000/> |
 
 #### Approved Science Electives (CSCI Science Electives)
-Formal Requirement:
-* 14 units total are required
-* At least 5 units must come from Special Science Electives Courses (PHYS 50, PHYS 51, CHEM 1A, BIOL 31, BIOL 30, GEOL 1, GEOL 4L, GEOL 7, METR 10)
-* The remaining 9 units can be Special Science Electives, GE Science Courses, or an Area R course
-What It Means:
+<details open>
+<summary>Official Requirement Details (click me, I'm a dropdown!)</summary>
+ 
++ 14 units total are required
++ At least 5 units must come from Special Science Electives Courses (PHYS 50, PHYS 51, CHEM 1A, BIOL 31, BIOL 30, GEOL 1, GEOL 4L, GEOL 7, METR 10)
++ The remaining 9 units can be Special Science Electives, GE Science Courses, or an Area R course
+</details>
+
+<details open>
+<summary>What It Means</summary>
+ 
 * Basically, the CS department is saying “plz take an extra science class or two” but veils it in this super confusing 14-unit requirement.
 * Since so many classes cover both this requirement and certain GEs, if you choose classes strategically, it’s likely you’ll only need to take a single “extra” science+lab class for full coverage.
-How to Cover:
-* Your classes for GE Area B1 (Physical Science) and B2 (Life Science) will cover at least 6 units
-* Strategically choose your classes for B1 and B2 so that they double-dip into the 6-unit Special Science Electives Courses requirement (Example: PHYS 50 for B1/B3, GLST 1B for B2 is already 6 units)
-* B3 (Lab Science) will cover at least 1 unit, for a total of 7 units
-* Your Area R course will automatically cover (at least) 3 units, for a total of 10 units
-* Assuming 7 units from Area B and 3 from Area R, you’ll only need 4 more units at most. That’s one 4-unit science + lab class.
+
+</details>
+
+<details open>
+<summary>Covering This Requirement</summary>
+ 
+* Your classes for GE Area B1 (Physical Science) and B2 (Life Science) will cover at least **6 units**
+    * Strategically choose your classes for B1 and B2 so that they double-dip into the 6-unit Special Science Electives Courses requirement (Example: PHYS 50 for B1/B3, GLST 1B for B2 is already 6 units)
+* B3 (Lab Science) will cover at least 1 unit, for a total of **7 units**
+* Your Area R course will automatically cover (at least) 3 units, for a total of **10 units**
+* Assuming 7 units from Area B and 3 from Area R, **you’ll only need 4 more units at most**. That’s one 4-unit science + lab class.
+
+</details>
 
 #### Advanced Math (choose 1 of the 3)
 | Code         | Course                              | Notes |
