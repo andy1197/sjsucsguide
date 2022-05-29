@@ -25,13 +25,14 @@ This guide can also be read on [Google Docs](https://docs.google.com/document/d/
     4. [Professors](#professors)
     5. [Online Classes](#onlineclasses)
 5. [Getting Ahead](#gettingahead)
-    1. [Community College](#communitycollege)
-    2. [Special Sessions](#specialsessions)
-    3. [Unit Overloading](#unitoverloading)
+    1. [AP Credits](#apcredits)
+    2. [Community College](#communitycollege)
+    3. [Special Sessions](#specialsessions)
+    4. [Unit Overloading](#unitoverloading)
 6. [Advising & Registration](#advisingandregistration)
     1. [Holds](#holds)
     2. [Registration](#registration)
-    3. [Waitlists & Add Codes](#waitlistsandaddcodes)
+    4. [Waitlists & Add Codes](#waitlistsandaddcodes)
 7. [Transfers](#transfers)
     1. [Transfer Registration](#transferregistration)
     2. [Transfer Advising](#transferadvising)
@@ -201,8 +202,8 @@ No wiggle room here. These classes are all required.
 #### Lower Division Requirements
 | Code    | Course            | Notes |
 |:-----------:|:------------------------------------|:-------|
-| CS 46A    | Introduction to Programming        |       |
-| CS 46B    | Introduction to Combinatorics      |       |
+| CS 46A    | Introduction to Programming        | taught in Java       |
+| CS 46B    | Introduction to Combinatorics      | taught in Java     |
 | CS 47 | Introduction to Computer Systems |       |
 |<img width=150/>| <img width=300/>| <img width=1000/> |
 
@@ -225,40 +226,63 @@ No wiggle room here. These classes are all required.
 ### Electives <a name="electives"></a>
 You'll need to take 14 units of electives. Since (basically) every CS elective is 3 units, **so you'll have to take 5 CS electives.**
 
-I'm not going to list the electives I chose because. 
+I'm not going to list the electives I chose because there's such a huge variety of both elective options and things you can do with your degree. I believe there's a lot of value exploring on your own to find what you like. And since I'm not exactly going into industry, my recommendations might not be the most relevant anyways.
 
-I made a [template](https://docs.google.com/document/d/1tZjIYEdGjUZg-vztMmSd8zEpPA0KH2yOFF7CaeHGrgE/edit) that allows you to group electives based on interest. 
+Ask professors and advisors about electives that pique your interest. They are all established in their field in some way and have far more insight on electives and their relevance for industry than I do. Ask alumni working in the fields you're interested in through LinkedIn. Ask upperclassmen. Supplement your own knowledge and interest in certain electives with the **collective** insights of others.
 
+I made a [template](https://docs.google.com/document/d/1tZjIYEdGjUZg-vztMmSd8zEpPA0KH2yOFF7CaeHGrgE/edit) that allows you to group electives based on interest. Pairing this with your 4-year plan should make advising meetings smooth as butter, and you can also ask your advisors about the electives you want more info on.
 
 ## Planning
+
 ### MyProgress
+[MyProgress Tutorial](https://www.youtube.com/watch?v=PHrxvDwARlY&feature=emb_title)
+
 MyProgress is an incredibly useful tool built into the SJSU website that allows you to see exactly what requirements you have fulfilled, are in the progress of completing, or still need. There are plenty or resources available introducing the service and the university (rightfully) pushes it pretty hard. I’ll give you the rundown here, but you can always find more detailed tutorials online.
 
-This service is indispensable. I cannot emphasize this enough. Use it to make your 4-year plan, determine which courses to take, see what areas your AP credits and CC classes cover, raise your children, and more.
+This service is **indispensable**. I cannot emphasize this enough. Use it to make your 4-year plan, determine which courses to take, see what areas your AP credits and CC classes cover, raise your children, and more.
+
+<details open>
+<summary>How to navigate to MyProgress</summary>
+ 
+1. Navigate to **MySJSU**
+2. Under **Academics**, click **My Academics**
+3. Click **View My Progress Report**
+</details>
+
+All you need to know about reading the interface is introduced at the top of the page when you generate your MyProgress report. Explore and get used to the interface. Be ready to use it to prepare for course selection and advising meetings.
+
+> :warning: **Tip:** The only little quirk that I didn't see explained by the interface or tutorials is that if you need to fulfill a requirement that has a number of different course options, you can pull up the entire list of classes that cover said requirement directly in MyProgress.
+
+<p align="center">
+<img width="577" alt="Screen Shot 2021-04-30 at 7 11 20 PM" src="https://user-images.githubusercontent.com/66895883/170851136-4aac97fa-7f01-4dea-b29c-792adc0a9b90.png">
+</p>
 
 ### 4-Year Plan <a name="fouryear"></a>
-A 4-year plan is especially useful to bring to advising meetings. It also gives you a good idea of your graduation timing, required classes, and long-term university plan as a whole.
+A 4-year plan is very useful for advising meetings. It also gives you a good idea of your graduation timing, required classes, and long-term university plan as a whole.
 
-You can build an official 4-year plan in MyPlanner (a service I didn’t really utilize myself). Personally, I just made a table listing the remaining classes I needed adapted from MyProgress and roughly organized it into 4 years. For example, I would go back to PROGRAM OVERVIEW and write all the still-needed classes into a table, then cross-reference it with MyProgress to make sure all requirements were covered. Do whatever works best for you.
+You can build an official 4-year plan in MyPlanner. Though, personally, I just made a table listing the remaining classes I needed adapted from MyProgress and roughly organized it into 4 years. For example, I would go back to the [Program](#program) section and write all the still-needed classes into a table, then cross-reference it with MyProgress to make sure all requirements were covered. Do whatever works best for you.
 
 I certainly don’t believe that I could have accurately selected the CS electives I wanted to take in my first semester. It’s perfectly fine to just write “CS Elective” as filler in your personal list, then fill that list in as you explore.
 
 As a general extension of the previous paragraph, if you have other requirements that you’re unsure which class you’ll take for, leave it as the requirement name. For example, write Area R instead of a specific course if you’re unsure which Area R course you’d like to take. The 4-year plan is less of a concrete plan and more of a “covering requirements” plan.
 
-If you enter SJSU without a single unit of external credit, you’ll need to take an average of 15 units every semester (roughly 5 classes, since some classes are more or less than 3 units) to graduate in 4 years. Of course, this assumes you get the classes you want every single time, don’t fail a class, and don’t make any mistakes choosing classes. It’s good to be on the safe side and reduce course strain/pressure by following the advice in GETTING AHEAD.
+If you enter SJSU without a single unit of external credit, you’ll need to take an average of 15 units every semester (roughly 5 classes, since some classes are more or less than 3 units) to graduate in 4 years. Of course, this assumes you get the classes you want every single time, don’t fail a class, and don’t make any mistakes choosing classes. It’s good to be on the safe side and reduce course strain/pressure by following the advice in [Getting Ahead](#gettingahead).
 
-A 4-year plan is actually required (at least back in 2019) if you want to apply for the CA Promise Program (see REGISTRATION PRIORITY). In that case, follow the instructions the program provides and you can build an “official” 4-year plan on the website they give. “Official” doesn’t mean final, so don’t fret if you don’t have a solid vision of what your long-term university plan is.
+A 4-year plan is actually required (at least back in 2019) if you want to apply for the CA Promise Program (see [Registration](#registration). In that case, follow the instructions the program provides and you can build an “official” 4-year plan on the website they give. “Official” doesn’t mean final, so don’t fret if you don’t have a solid vision of what your long-term university plan is.
 
-Tips for plan design
-
+<details open>
+<summary>Tips for plan design</summary>
+ 
 * Take CS 146 as soon as you possibly can (right after CS 46B). It’s the prerequisite course for nearly all other upper-division CS courses and will open your course options up significantly.
-* Don’t stack too many difficult CS classes at once. You can check out the contributor and my difficulty ratings in CS CLASS DIFFICULTIES
+* Don’t stack too many difficult CS classes at once. You can check out difficulty rankings in 
 * Some GEs are difficult and/or time consuming, and others are a cakewalk. Make sure not to dismiss all GEs as “easy” and use them as schedule fillers. Do your research.
 * I finished all of my major requirements without mixing in more than a single elective. I now feel I would’ve had a more balanced schedule if I mixed more electives in.
 * Major requirements are generally more difficult than electives (though there certainly are exceptions)
 * Mark classes that can be taken at CC or during SJSU’s Summer/Winter sessions. If you ever need to get ahead, those will be your first targets.
-* Triple check that you’ll have the prerequisites of a course complete before you write that class into your plan
-Some courses (almost exclusively upper division CS electives) are only offered during Fall or Spring. I strongly recommend that you check past semesters’ listings of the electives you wish to take to make sure the course offering aligns with your plan.
+* Triple check that you’ll have the (co)prerequisites of a course complete before you write that class into your plan
+* Some courses (almost exclusively upper division CS electives) are **only offered during Fall or Spring**. I strongly recommend that you check past semesters’ listings of the electives you wish to take to make sure the course offering aligns with your plan.
+
+</details>
 
 ### GE Recommendations <a name="gerecs"></a>
 For GEs (especially Area RSV), I often prioritized “easiness” over other factors since I was taking difficult CS upper-division courses at the same time.
@@ -279,33 +303,29 @@ It’s also a good idea to be honest with yourself and your personal ability whe
 To summarize my advice: A professor with mediocre reviews isn’t necessarily a bad professor. Ask upperclassmen if you want more specific insight.
 
 ### Online Classes <a name="onlineclasses"></a>
-Should I take online classes?
+**Should I take online classes?**
 
-With the COVID pandemic, all classes moved online for 2.5 semesters. Since basically all classes have some online foundation and/or format now, I’d expect online counterparts to classes to be more common in the future, even as in-person teaching returns.
-
+With the COVID pandemic, all classes moved online for 2.5 semesters. Since basically all classes have some online foundation and/or format now, I’d expect online counterparts to classes to be more common in the future, even as in-person teaching returns. ***2022 me checking in, I was right 😭***
 
 Online learning is extremely hit-or-miss for people. It was a “hit” for me because I no longer had to commute to and from school (I lived off campus) and was basically at my computer all day anyways. Your mileage may vary.
 
-
 Learning on Zoom is not for everybody. Distractions are far more prevalent and there’s really nobody to stop you from being distracted. Taking difficult classes online requires solid dedication, so be honest with yourself in determining whether or not some online options are for you. I’m no bastion of work ethic and would often find myself on my phone during class. If you might do the same, you had better be willing to commit just as much class-time you miss into reviewing video lectures, because I certainly did.
-
 
 It’s still unclear how common online classes will be in the future, but like I said, I predict more and more classes will have online options in the coming years.
 
-
-Asynchronous Classes
+**Asynchronous Classes**
 
 Asynchronous classes (no formal meeting time) are generally less effort overall compared to synchronous counterparts. You’ll basically never see an asynchronous CS class, but they’re pretty common for some GEs.
 
-
 There will definitely be more assignments for asynchronous classes, but these courses are generally self-paced for the entire semester or in weekly/bi-weekly chunks. If you’re confident in your ability to self-pace and not fall behind (because falling behind in an asynchronous class can be even worse than doing so in a synchronous one), asynchronous options may save time and effort.
 
-
-Hybrid Classes
+**Hybrid Classes**
 
 There are many class meeting styles that fall under this category, so the classification itself isn’t terribly useful. Your mileage will vary greatly depending on how your professor decides to teach their class. Check the class notes for a class when searching/enrolling to potentially get more information about a course’s meeting schedule.
 
 ## Getting Ahead <a name="gettingahead"></a>
+
+### AP Credits <a name="apcredits"></a>
 Back in my matriculation year (2019-20), SJSU gave credit for all scores 3 and higher. It seems SJSU has become stricter since then and now gives credit conditionally based on your score. A 3 still nets you credit, but a 4-5 may net more for certain requirements.
 
 For the most part, MyProgress will do the work for you. You can manually check that your AP credits are being counted for course credit there. I’ve included the AP credits that are most important for CS majors below as of Spring 2021:
