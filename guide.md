@@ -508,7 +508,7 @@ Advisors will not plan out your next semester classes for you (unless the classe
 ### Registration <a name="registration"></a>
 Registration dates are usually released a few months before the new semester, but you won’t be able to see them until your holds are removed (which is why this section is coupled with Advising). You can find the registration dates for your specific semester on [SJSU's official calendar](https://www.sjsu.edu/registrar/calendar/).
 
-When you do remove your holds, navigate to MySJSU, and you should see Enrollment Dates on the right sidebar. Click Details and change the term if necessary. Here's a tutorial, if needed.
+When you do remove your holds, navigate to MySJSU, and you should see _Enrollment Dates_ on the right sidebar. Click _Details_ and change the term if necessary. Here's a [video tutorial](https://www.youtube.com/watch?v=kQVXZuA-TEk&t=1s), if needed.
 
 <p align="center">
 <img width="300" alt="Screen Shot 2021-04-30 at 7 11 20 PM" src="https://user-images.githubusercontent.com/66895883/170853579-9c656add-e222-4838-be04-60ed6e9cbc84.png">
