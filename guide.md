@@ -6,6 +6,8 @@ This guide can also be read on [Google Docs](https://docs.google.com/document/d/
 > :warning: **Warning:** This marker indicates that the text is especially important.
 
 > :rat: **Rat:** This is a rat.
+
+If you're interested in contributing, check out contribute.md in this repository.
  
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -44,7 +46,7 @@ This guide can also be read on [Google Docs](https://docs.google.com/document/d/
     3. [Networking](#networking)
 9. [Miscellaneous](#miscellaneous)
     1. [Switching Into CS](#switchingintocs)
-    2. [The SJSU Job Security Myth)](#jobsecurity)
+    2. [The SJSU Job Security Myth](#jobsecurity)
     3. [Tutoring](#tutoring)
     4. [Office Hours](#officehours)
     5. [Email Etiquette](#email)
@@ -54,9 +56,9 @@ This guide can also be read on [Google Docs](https://docs.google.com/document/d/
 ## Introduction
 
 ### Overview
-Hello! This student-authored guide serves to consolidate information and advice to help you best navigate SJSU's Computer Science program.
+Hello! This student-authored guide serves to consolidate information and advice to help you best navigate SJSU's Computer Science program. 
 
-> :warning: **Note:** I am not an advisor. Anything written in this guide should be taken with a grain of salt as a precaution and double checked with an advisor. Program requirements can and do change, so do your due diligence.
+This guide **is not** universally comprehensive or meant to replace other resources. Please use it as a starting point and/or supplement for official university resources. Anything written in this guide should be taken with a grain of salt as a precaution and double checked with an advisor. Program requirements can and do change, so do your due diligence.
 
 ### Contact
 sjsucsguide@gmail.com
@@ -297,14 +299,16 @@ If your objective is similar, you may consider the following courses. I’ve bol
 | E  | Human Understanding and Development  | **SCI 2 (Success in Science):** This course is pushed incredibly hard onto first-years and is basically a study/social/college skills class that requires regular check-ins with “peer mentors” and some busy work. It wasn't very useful for me (though it was an easy A) and I wouldn't necessarily recommend it, but it's not the end of the world if you're enrolled.<br/>**KIN 69 (Stress Management):** *"I heard you sleep for the first half of class"* - Professor Ben Reed                        |
 |<img width=20/>|<img width=300/>|<img width=1000/>|
 
-> 
-> 
 ### Professors <a name="professors"></a>
-RateMyProfessor ratings are usually very biased. Students who perform well are more likely to leave a positive review, while students who don’t perform well are more likely to leave a negative review. Since the CS department teaches many difficult classes, the latter is common.
 
-In my opinion, the most reliable reviews are from those who receive a good grade but leave a bad review or receive a bad grade but leave a good review. That was my rule of thumb when reading reviews.
+Similar to the CS electives sections, I'm going to refrain from Professor recommendations. First, I was only taught by a small portion of the CS faculty. Second, it's better for you gather insight from a variety of sources since everyone's experiences are so subjective. This guide seeks to be mainly informative rather than [recommendative](https://en.wiktionary.org/wiki/recommendative) (surprise surprise, that's a word!).
 
-If a professor only has bad reviews, I’d err on the side of caution. But, in my experience, there are definitely professors with review distributions extruding on both extremes, resulting in an “unimpressive” average score. Usually, these professors are solid but teach difficult courses and/or are strict. I’ve definitely had great professors with mediocre reviews. As expected, the classes these professors taught were difficult. Take that as you will.
+**My Thoughts on RateMyProfessor:**
+RateMyProfessor ratings are usually very biased. Students who recieve a high grade tend to leave positive reviews, while those who don't tend to leave negative reviews. And since the CS department teaches difficult classes, negative reviews are pretty common. It's also more likely for someone to leave a review only if they had a negative experience with the class.
+
+In my opinion, the most reliable reviews are from those who receive a good grade but leave a bad review or receive a bad grade but leave a good review. 
+
+If a professor **only** has bad reviews, I’d err on the side of caution. But more common is a professor with a handful of positive reviews and a ton of medicore ones, resulting in an unimpressive average score. Usually, these professors are solid but teach difficult courses and/or are strict. I've had plenty of wonderful professors with mediocre reviews. Their classes were difficult. Take that as you will.
 
 Students who perform averagely or don’t have any strong feelings about a class/professor usually won’t leave RMP reviews. I’d encourage you to be the change and leave reviews for all of your professors, even if the class wasn’t memorable or you didn’t have a good time. I’d also highly encourage you to focus your review on the professor’s teaching rather than how you did in the class. CS is not an easy major, and course content being difficult isn’t necessarily the professor’s fault.
 
@@ -333,12 +337,30 @@ There will definitely be more assignments for asynchronous classes, but these co
 
 There are many class meeting styles that fall under this category, so the classification itself isn’t terribly useful. Your mileage will vary greatly depending on how your professor decides to teach their class. Check the class notes for a class when searching/enrolling to potentially get more information about a course’s meeting schedule.
 
+<p align="center">
+<img width="800" alt="Screen Shot 2021-04-30 at 7 11 20 PM" src="https://user-images.githubusercontent.com/66895883/170852604-c6761196-eb6d-4276-a1e9-dceb425675f3.png">
+</p>
+
+<p align="center">
+<img width="800" alt="Screen Shot 2021-04-30 at 7 11 20 PM" src="https://user-images.githubusercontent.com/66895883/170852877-9b94201c-90ec-4ac8-a2f0-c141d7666b76.png">
+</p>
+
 ## Getting Ahead <a name="gettingahead"></a>
 
 ### AP Credits <a name="apcredits"></a>
-Back in my matriculation year (2019-20), SJSU gave credit for all scores 3 and higher. It seems SJSU has become stricter since then and now gives credit conditionally based on your score. A 3 still nets you credit, but a 4-5 may net more for certain requirements.
+https://catalog.sjsu.edu/content.php?catoid=12&navoid=4077
+Back in my matriculation year (2019-20), SJSU gave credit for all scores 3 and higher. Now, a 3 still nets you credit, but a 4-5 may net more for certain requirements.
 
-For the most part, MyProgress will do the work for you. You can manually check that your AP credits are being counted for course credit there. I’ve included the AP credits that are most important for CS majors below as of Spring 2021:
+For the most part, MyProgress will do the work for you. You can manually check that your AP credits are being counted for course credit there. I’ve included the AP credits that are most important for CS majors below as of Spring 2022:
+
+| Exam                        | Score | Coverage                                                                                                  |
+|:-----------------------------|:-------:|:----------------------------------------------------------------------------------------------------------|
+| Calculus AB                 | 3     | MATH 30                                                                                                   |
+| Calculus BC                 | 3     | MATH 30 and MATH 31                                                                                       |
+| Computer Science A          | 3     | CS 46A                                                                                                    |
+| Computer Science Principles | 3     | Elective Credit, GE Area B4.</br> :warning: Note that but this isn’t considered the CS Electives that the major requires |
+|<img width=200/>|<img width=50/>|<img width=1000/>|
+
 
 ### Community College <a name="communitycollege"></a>
 Community College (CC) classes are a good way to take the pressure off of the “15 units per semester” requirement to graduate in 4 years. They are far cheaper than taking Winter/Summer classes at SJSU and are usually easier across the board.
@@ -411,7 +433,7 @@ Basically, being in certain groups will give you earlier registration dates and 
 ### Waitlists & Add Codes <a name="waitlistsandaddcodes"></a>
 SJSU’s waitlist technically becomes useless on the first day of instruction. The professor can save the waitlist order themselves, but if you aren’t actually enrolled in the class by the first day, consider the waitlist nonexistent.
 
-One way to still get enrollment in a course once the semester begins is through an add code. Professors usually have a handful of add codes they can give out that allow the student count to exceed the “class enrollment limit”.
+One way to still get enrollment in a course once the semester begins is through an **add code**. Professors usually have a handful of add codes they can give out that allow the student count to exceed the “class enrollment limit”.
 
 All professors have their own rules for giving out add codes. Some may not give out any. Rules of thumb are as follows:
 
@@ -423,15 +445,15 @@ Professors will generally prioritize graduating seniors, then based on seniority
 
 Regardless of how the professor whose class you’re interested in grants add codes, you can maximize your chances in the following ways:
 * Knowing the date, time, and professor of the course you want to add
-* Email the professor before the semester begins, explain your current position (waitlisted, etc.) and ask about their add code policy (see Email Etiquette)
+   * Email the professor before the semester begins, explain your current position (waitlisted, etc.) and ask about their add code policy (see Email Etiquette)
 * If the class is online, try to find a Zoom link for the first day from enrolled students
-* Alternatively, you can email the professor to ask for a zoom link
+   * Alternatively, you can email the professor to kindly ask for a zoom link
 * Attend the first day of class (online or in-person)
 * Some professors ask if there are any “people trying to add”
-* Others won’t, and it is your responsibility to talk to them at the end of class, find them in office hours, or find another way to meet
-* Don’t be pushy when asking. First impressions are very important.
+   * Others won’t, and it is your responsibility to talk to them at the end of class, find them in office hours, or find another way to meet
+   * Don’t be pushy when asking. First impressions are very important.
         
-Receiving an add code as a non-graduating senior is extremely inconsistent, especially for popular courses/professors. Make sure you’re already enrolled for a backup class that you can later drop if you receive an add code for the desired course.
+> :warning: **Warning:** Receiving an add code for a popular course, especially if you're not a graduating senior, is extremely inconsistent. Make sure you’re already enrolled for a backup class that you can later drop if you receive an add code for the desired course.
 
 ## Transfers
 ### Transfer Registration <a name="transferregistration"></a>
