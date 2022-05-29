@@ -768,6 +768,6 @@ I’ve included a snapshot of last week to give you an idea of what my calendar 
 ![pasted image 0](https://user-images.githubusercontent.com/66895883/170854284-f4f11fcd-7d6f-40ee-a860-d04aedefec55.png)
 
 ## Afterword
-Feel free to share this document with this compressed link: [bit.ly/SJSU-CS-Guide](https://bit.ly/sjsucsguide). Don’t hesitate to contact us if you have questions, catch an error, or want to contribute.
+Feel free to share this document with this compressed link: [bit.ly/sjsucsguide](https://bit.ly/sjsucsguide). Don’t hesitate to contact us if you have questions, catch an error, or want to contribute.
 
 Cheers! 
