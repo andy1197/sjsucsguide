@@ -304,6 +304,8 @@ Choosing classes for your first semester is different. You’ll choose classes o
 ### CS Course Difficulties <a name="difficulty"></a>
 It’s important to have a good idea of how difficult the required classes are so you can avoid stacking too many of the difficult ones into the same semester. Note that your mileage may vary drastically based on your professor and your own strengths/weaknesses. 
 
+If you've taken any of these courses and would like to contribute, go [here](https://docs.google.com/forms/d/e/1FAIpQLSdlQzObcPiyOctatjjxDckyv4rI1eDXo4T6CKpiT5zAGnfqqQ/formResponse).
+
 > :warning: **Note:** These ratings are crowdsourced from the CS student body at SJSU. Take them with a grain of salt. Students have different learning styles and strengths. These students take these classes with different professors, all with different teaching styles.
  
 Rankings are on a scale from 1-10.
