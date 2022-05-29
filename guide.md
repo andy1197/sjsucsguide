@@ -6,7 +6,7 @@ This guide can also be read on [Google Docs](https://docs.google.com/document/d/
 > :warning: **Warning:** This marker indicates that the text is especially important.
 
 > :rat: **Rat:** This marker indicates that there is a rat.
- 
+
 ## Table of Contents
 1. [Introduction](#introduction)
     1. [Overview](#overview)
