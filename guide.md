@@ -582,24 +582,113 @@ I’ve gathered a list of active CS/CE clubs I’m aware of below. If you want y
 * Girls Who Code
 
 ### Internships
-wahoo get some internships!
+I'm not going to discuss the actual internship hunt/interview process because I am absolutely not qualified to dish out advice about it. There are far more insightful resources out there discussing how you can a CS internship. That being said, I have added some advice on studying and how best to tackle Leetcode based on my experience with Leetcode and several standardized tests.
+
+**What is Leetcode?**
+
+LeetCode is a game that you have to play if you want to maximize your chances of landing an internship. If you’re unaware of what it is, “first round interviews” for companies will often ask a handful of “puzzle-like” questions from competitive programming sites like LeetCode. It’s an easy way to filter out candidates, but is widely frowned upon by experienced developers. The sentiment I usually hear among them is that the memorization and puzzle skills these LeetCode interviews test really aren’t useful in a real work environment.
+
+That said, advocates for Leetcode argue that the competitive programming questions establish for candidates a cognitive standard university enrollment itself may not prove in confidence. It also levels the playing field since you can study Leetcode and see great improvement. 
+
+As more and more people are learning to LeetCode, companies up the difficulty of their interview questions to match rising performance—prompting a vicious cycle. Today, Leetcode is nearly unavoidable for most major CS internship/job roles. You’ll have to play the game if you want to maximize your chances.
+
+Most data structures tested in these competitive programming questions will be taught in CS 146 (Data Structures and Algorithms), but CS 146 **does not teach you how to Leetcode**!
+
+Resources I used
+* Blind 75: Useful list of curated LeetCode problems
+* Cracking the Coding Interview: You can easily find the pirated PDF online, that you can then avoid like the storm because that’s iLleGaL
+
+**Advice on Leetcode**
+
+* [Hoplite](https://www.linkedin.com/company/sjsu-hoplite) is an interview-prep club here at SJSU.
+* You are going to suck at the beginning. There’s no way around it, no magical shortcut.
+* Leetcode tests very specific skills, memorization being a huge one
+  * There are a reasonable, finite number of problem categories, and the solutions within each category generally utilize the same handful of techniques. For example, I’ve seen many, many different problems that all have the same solution with minor adaptations: the [Window Sliding Technique](https://www.geeksforgeeks.org/window-sliding-technique/).
+  * You don’t have to come up with a novel, brilliant solution to every problem you see. The goal is that you will have done that specific problem before or will have done a problem similar enough and remember the general tools/steps you used so that the challenge isn’t reinventing the wheel, but making small adaptations based on problem-specific requirements.
+  * When I emphasize the importance of memorization, I do not mean memorizing each and every problem and its solution line-by-line. I mean memorizing the techniques used to solve these problems so that these techniques can be generalized to solve a larger number of other problems.
+Repetition is incredibly important for memorization. Make sure your studying isn’t strictly linear (like completely studying X, moving on to study Y and never touching X again until the end). A better plan: Study X, Study Y, after Y review X and make sure you still remember it, etc...
+  * If you find yourself stuck on a problem, do not hesitate to the look at the answer. Your goal in studying is that you'll be familiar with the type of questions thrown at you in interviews, not so you can pride yourself in finding a solution from scratch (this is a nice skill to have, but isn't super relevant for Leetcode interviews)
+* Comfortably learn the data structures used in subsets of LeetCode problems (from CS 146 or externally) before grinding out the problems themselves.
+* Choose a single language you’re comfortable with for problems and stick with it. The easiest one to use is Python because the language is very hand-holdy and has a ton of built-in functions.
+* You can find the exact problems many companies use (or used recently) online
+
+**Advice on Finding Internships** 
+
+* [Here’s](https://www.forbes.com/sites/susanadams/2015/01/30/the-10-best-websites-for-finding-an-internship/?sh=3dd05df01b44) an article discussing the best websites to find internships on
+* All SJSU students have access to [Handshake](https://sjsu.joinhandshake.com/stu). It's a solid platform that allows you to easily apply to jobs geared towards students.
+* Internships for “big companies” usually close by December or January, so plan your studying/internship hunting around those deadlines if you’re interested in that.
+* Internships are a huge numbers game, and have a tough barrier of entry if you don’t have past internships. Generally speaking, quantity > quality when looking for your first role. 
 
 ### Networking
-This world runs on nepotism whether you like it or not. As social creatures, we’re more likely to be lenient and want to do favors for people we know/like.
+This world runs on nepotism whether you like it or not. As social creatures, we’re more likely to be lenient and want to do favors for people we're familiar with.
 
 This guide really isn’t meant to give networking advice, but I will say that having a network makes it far easier to find job opportunities and whatnot. Anecdotally, networking helped the co-contributor land herself an internship her Sophomore year. As she says: “Connect with people on LinkedIn, reach out for help, and grow your circle.”
 
 I’d like to add that professors are also invaluable to have in a network and may present opportunities if you have a good relationship with them and ask nicely.
 
-Also, networking doesn’t just mean sending out LinkedIn requests to every professional profile you come across in hopes that they publicly post a job opportunity or something. It’s often quality over quantity. Make genuine professional connections: be curious/interested in a professional’s career and ask questions, for example.
-
-If you don’t want to go all out with networking (in my personal opinion, doing so feels artificial at times), that’s fine too. Note that you will have to rely on your personal skills more (resume, projects, LeetCode, interview ability).
+Also, networking doesn’t just mean sending out LinkedIn requests to every professional profile you come across in hopes that they publicly post a job opportunity or something. It’s often quality over quantity. Reach out to alumni and professionals in the fields you're interested in. Ask them questions about their career trajectory, education, background. Be professional, appreciative, and kind.
 
 ## Miscellaneous
+
 ### Switching into CS <a name="switchingintocs"></a>
+
+[Department of Computer Science: Change of Major Policy](https://www.sjsu.edu/cs/students/undergrad-students/change-of-major.php)
+
 Due to multiple people asking, I’m writing a small section on how to switch into CS. The most updated information can be found with the search query above. PLEASE CHECK THESE REQUIREMENTS YOURSELF AND MEET WITH AN ADVISOR (generally one from your major) IF YOU HAVE ANY DOUBTS.
 
 The process to switch majors into CS is deliberately difficult. Demand for the major is so high relative to supply that I can’t imagine advisors aren’t burned out facilitating the process for likely hundreds of prospects every semester, so don’t take it personally if you feel there are significant delays during communication with advisors.
+
+Contact COSAC if you have additional questions.
+
+**DO NOT MISS THE APPLICATION DEADLINES!**
+
+Applications are accepted twice a year
+If you want to be a CS major by Spring semester (the second semester in an academic year), you must apply December 1st.
+If you want to be a CS major by Fall semester (the first semester in an academic year) you must apply by May 1st.
+DOUBLE CHECK THESE DEADLINES ON YOUR OWN!
+
+**Classes you need to take before applying**
+* For students with less than 60 units, there are four classes you need to take before you submit a Change of Major application: CS 46A + CS 46B (Introduction to Programming Classes), and MATH 42 (Discrete Math). CS 49J is also required if you’ve taken the CS 46 A/B equivalencies at a different university and those classes did not use Java.
+* For students with over 60 units, you have to take MATH 30, MATH 31, and CS 146 in addition to the classes listed in the previous paragraph.
+* If you have over 90 units, your application will not be accepted.
+
+**Minimum Requirements**
+* In addition to the classes listed above, there is also an SJSU cumulative GPA requirement of 3.7 (as of 03/06/22) to even apply.
+* “Applicants must have achieved a sufficiently high GPA in courses that are required to apply”. The GPA is kept purposefully vague, I’d imagine so that the program can adjust their standards according to applicant load in a given cycle. If you are an applicant with under 60 units, aim for the highest grades possible in CS 46 A/B and MATH 42.
+
+**Notes**
+* Contrary to what many think, CS 146 is not open only to CS/SE (software engineering) majors (this is relevant if you have 60+ units and want to switch). Anyone can take the class. The catch is that CS/SE majors have priority for these classes and non-majors need instructor consent. Check out the Add Codes section and follow the advice there to maximize your chances of adding the class as a non-major.
+* CS 46A and CS 46B are also incredibly difficult classes to get as a non-major. Check out the Add Codes section to maximize your chances. You will likely not be able to be picky with class times or professors. From my understanding, MATH 42 is easier to enroll in since it has more significant overlap with other majors (and hence more class offerings).
+
+**Q: “I’m an incoming freshman! What’s the quickest way to switch into CS?”**
+
+<details open>
+<summary>I have APCS Credit</summary>
+ 
+* A sufficient APCS score grants credit for CS 46A. You can then take CS 46B in your first semester at SJSU.
+* Take and complete MATH 42 sometime before you apply.
+* Apply to become a CS major during your first semester (before the December deadline).
+* Become a CS major your second semester. 
+</details>
+
+<details open>
+<summaryAny% Speedrun</summary>
+ 
+* Take a CS 46A equivalency class at a community college the summer before starting at SJSU. Make sure the class is taught in Java, or you’ll need to take CS 49J as well before applying to switch majors. Check out CC Classes and Articulation.
+* Take CS 46B and MATH 42 in your first semester at SJSU.
+* Apply to become a CS major during your first semester (before the December deadline).
+* Become a CS major your second semester.
+</details>
+
+<details open>
+<summary>Traditional Process</summary>
+ 
+* Take CS 46A in your first semester at SJSU.
+* Take CS 46B in your second semester at SJSU.
+* Take and complete MATH 42 sometime before you apply.
+* Apply to become a CS major during your second semester (before the May deadline).
+* Become a CS major your third semester (sophomore year).
+</details>
 
 ### The SJSU Job Security Myth <a name="jobsecurity"></a>
 
@@ -617,26 +706,35 @@ I know it sounds like I’m absolutely bashing SJSU here, and that’s because I
 
 Pessimism aside, there are plenty of great things about the C.S. program and SJSU in general. One is that most professors are here only to teach and don’t have research commitments. Another is that class sizes are far, far smaller than UCs and you actually get to talk to your professors instead of only a TA. “Easier” coursework also means less stress (see this very interesting Stanford study on the concept of [Big Fish Little Pond](https://ed.stanford.edu/news/stanford-education-study-provides-new-evidence-big-fish-little-pond-effect-students-globally#:~:text=%E2%80%9CBig%2Dfish%2Dlittle%2Dpond%E2%80%9D%20is%20a%20concept,achieving%20settings%20have%20more%20confidence.) in education) and will allow you more time to build projects or pursue other interests outside of the classroom.
 
-I wouldn’t be discouraged if you’re enrolling here—you’ll just need to work hard for what you want (which is a given at other schools, too). You’ll have plenty of smart, hardworking peers and great professors.
+Don't feel discouraged if you’re enrolling here—you’ll just need to work hard for what you want (which is a given at other schools, too). You’ll have plenty of smart, hardworking peers and great professors.
+
+> I think a lot of people presume the SJSU CS program is mediocre, and yeah it's not going to have as many research opportunities as private and well funded universities. I think that's the major drawback of a state school—not having as many research opportunities and possible elective choices, But, there are so many resources online that I wouldn't be discouraged by it. 
+> 
+> Try not to compare yourself to people from other schools like I did a lot. The fact is an engineer from SJSU can be just as good and better than one from Bekeley, but that's in your hands. CS in general is a major that truly depends on what you put into outside of the classroom. Listening to lectures alone is not enough no matter what program or school you’re enrolled in. It’s how you take that knowledge and work on applying it that will make you the better software engineer.
+> 
+> *Note from contributor*
 
 ### Tutoring
-There are two primary sources of school-sponsored, free tutoring: Peer Connections and COSAC Tutoring. I can’t say anything about them because I never utilized either resource, but I hear that the student tutors are often hit-or-miss. I’d ask around for more opinions or just try it out yourself.
+There are two primary sources of school-sponsored, free tutoring: [Peer Connections](https://www.sjsu.edu/peerconnections/index.php) and [COSAC Tutoring](https://www.sjsu.edu/cosac/tutoring/cosac-tutoring/index.php). I can’t say anything about them because I never utilized either resource, but I hear that the student tutors are often hit-or-miss. I’d ask around for more opinions or just try it out yourself.
 
-Peer Connections tutors most subjects but doesn’t go too deep into CS upper division courses. A current snapshot of this list shows that they tutor 46A/B, 47, 49J, 146, 151, 157A.
+Peer Connections tutors most subjects but doesn’t go too deep into CS upper division courses. A current snapshot of [this list](https://www.sjsu.edu/peerconnections/programs/courses.php) shows that they tutor 22A/B, 46A/B, 47, 49J, 122, 146, 147, 149, 151, 157A, 166, and 171.
 
 COSAC will cover more CS upper division courses but won’t cover anything non-science.
 
 ### Office Hours <a name="officehours"></a>
 Go to office hours.
+
 ### Email Etiquette <a name="email"></a>
-BEFORE YOU SEND A SINGLE EMAIL, please read this. Your professors will thank you.
+< :warning: **BEFORE YOU SEND A SINGLE EMAIL, [please read this](https://www.unr.edu/writing-speaking-center/student-resources/writing-speaking-resources/email-etiquette-for-students). Your professors will thank you.**
 
 ### Calendars
 I strongly encourage you to utilize Google Calendar or a similar agenda/calendar service. Before the semester begins, I would add all of my class times to my Google Calendar. Once the semester begins and syllabi are released, I would spend 1-2 hours populating it with Office Hours, due dates for homework assignments, and quiz/exam dates.
 
 I’ve included a snapshot of last week to give you an idea of what my calendar looks like. I have Office Hours hidden, but can enable them when I want. Spending 1-2 hours at the beginning of the semester to do this saves you far more time throughout the semester, especially when you need to figure out when your professor’s office hours are.
 
+![pasted image 0](https://user-images.githubusercontent.com/66895883/170854284-f4f11fcd-7d6f-40ee-a860-d04aedefec55.png)
+
 ## Afterword
 Feel free to share this document with this compressed link: bit.ly/SJSU-CS-Guide. Don’t hesitate to contact us if you have questions, catch an error, or want to contribute.
 
-Here are our LinkedIn’s if you want to connect. Cheers!
+Cheers! 
