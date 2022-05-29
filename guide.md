@@ -50,7 +50,8 @@ This guide can also be read on [Google Docs](https://docs.google.com/document/d/
     6. [Calendars](#calendars)
 10. [Afterword](#afterword)
 
-## Introduction 
+## Introduction
+
 ### Overview
 Hello! This student-authored guide serves to consolidate information and advice to help you best navigate SJSU's Computer Science program.
 
@@ -62,12 +63,12 @@ sjsucsguide@gmail.com
 Feel free to send an email if you catch errors, have questions, or would like to contribute.
 
 ### Glossary
-| Term  | Definition |
+| Term   | Definition                                                          |
 |:-------|:--------------------------------------------------------------------|
-| CC    | Community College                                                  |
-| COSAC | College of Science Advising Center                                 |
-| GE    | General Education, requirements that are shared across all majors. |
-| <img width=100/>| <img width=1000/> |
+| CC     | Community College                                                   |
+| COSAC  | College of Science Advising Center                                  |
+| GE     | General Education, requirements that are shared across all majors.  |
+|<img width=100/>| <img width=1000/>|
 
 > :warning: **Warning:** This will be on the exam.
 
@@ -79,18 +80,37 @@ I realize that this guide places a lot of emphasis on "graduating efficiently", 
 Be honest with yourself about your circumstances, motivations, and capabilities. Find your own pace to pursue your degree at and you'll thrive. I promise.
 
 ## Program
-The diagram below is a rough illustration of the requirements you need to fulfill:
-
-> :warning: **Warning**: Let me reiterate that programs do change, and that the program information below may not be perfectly accurate. Please do your due diligence.
+The required courses for a CS degree are organized into (3) groups. More details about each can be found below.
 
 <p align="center">
-  <img width="745" height="595" src="https://user-images.githubusercontent.com/66895883/170821467-486035c4-b945-4f2c-8f8f-656c13176d3a.png">
+  <img width="744" height="484" src="https://user-images.githubusercontent.com/66895883/170849547-f93308aa-251b-429a-a0eb-07c5521efa46.png">
 </p>
 
-
-
+> :warning: **Warning**: Let me reiterate that programs do change, and that the program information below may not be perfectly accurate. Please do your due diligence.
+> 
 ### University Requirements (GEs) <a name="ges"></a>
+https://catalog.sjsu.edu/content.php?catoid=12&navoid=4149
+
+#### Physical Education (PE)
+2 units of PE are required. Most PE classes are 1 unit, but some are more.
+
+#### US123
+US123 is the shorthand for three requirements: US1, US2, and US3. 
+
+All three requirements can be covered by taking HIST 15 (Essentials of U.S. History) and POLS 15 (Essentials of U.S. & California Government). 
+* HIST 15 covers US1, Area D
+* POLS 15 covers US2, US3, Area D
+* Taking these two classes also satisfies the 6-unit Area D requirement. 
+
+Other sequences that cover Area D and US123 include:
+* AFAM 2A + AFAM 2B (African Americans and the Development of America's History and Government)
+* AMS 1A + AMS 1B (American Cultures to 1877, American Cultures 1877 to Present)
+* AAS 33A + AAS 33B (Asian Americans in U.S. History)
+* CCS 10A + CCS 10B (Mexican Americans and the Development of U.S. History and Government)
+* HUM 1A + HUM 1B, HUM 2A, HUM 2B (Humanities Honors, though I wouldn't recommend this program for CS majors). 
+
 #### Lower Division GEs
+https://www.sjsu.edu/general-education/ge-requirements/lower-division.php
 | GE   | Area                                | Notes                              |
 |:-----:|:------------------------------------|:-----------------------------------|
 | A1   | Oral Communication                  | most students take COMM 20 (Public Speaking) or COMM 40 (Argumentation and Advocacy)                                 |
@@ -102,12 +122,16 @@ The diagram below is a rough illustration of the requirements you need to fulfil
 | B4   | Mathematical Concepts               | :warning: an "intensive math" courses cover this. Math 30 is a major requirement and is considered an "intensive math" course, ***so you don't have to worry about this requirement***                                   |
 | C1   | Arts                                | music and art                                   |
 | C2   | Letters                             | foreign language studies, english literature/culture studies                                   |
-| D1   | Human Behavior                      |                                    |
-| D2   | Comparative Systems                 | ethic studies                                   |
-| D3   | Social Issues                       |                                    |
+| D   | Social Sciences                      | complete 6 units. Area D used to be split into D1, 2, and 3 before the addition of Area F.                                  |
 | E    | Human Understanding and Development |                                    |
-| <img width=20/>| <img width=300/>| <img width=1000/> |
+| F    | Ethnic Studies |                                    |
+|<img width=20/>|<img width=300/>|<img width=1000/>|
 #### Upper Division GEs
+https://www.sjsu.edu/general-education/ge-requirements/upper-division.php
+
+* You'll have to finish the [***Upper-Division Writing Directed Self Placement***](https://www.sjsu.edu/wac/wst/) before enrolling in RSVZ classes.
+* You'll need to be "upper divison standing" which usually means you will have 60 units out of the 120 to graduate by the time you take this class. I think there might be some flexibility here for edge cases, but ask your advisor.
+
 | GE | Area                                          | Notes |
 |:-----:|:----------------------------------------------|:------|
 | R    | Earth And Environment                         |       |
@@ -144,12 +168,12 @@ How to Cover:
 * Assuming 7 units from Area B and 3 from Area R, you’ll only need 4 more units at most. That’s one 4-unit science + lab class.
 
 #### Advanced Math (choose 1 of the 3)
-| Code    | Course            | Notes |
-|:-----------|:------------------------------------|:-------|
-| MATH 32   | Calculus 3                         |       |
-| MATH 142  | Introduction to Combinatorics      |       |
-| MATH 161A | Applied Probability and Statistics |       |
-|<img width=150/>| <img width=300/>| <img width=1000/> |
+| Code         | Course                              | Notes |
+|:-------------|:------------------------------------|:------|
+| MATH 32      | Calculus 3                          |       |
+| MATH 142     | Introduction to Combinatorics       |       |
+| MATH 161A    | Applied Probability and Statistics  |       |
+|<img width=150/>|<img width=300/>|<img width=1000/>|
 
 ### Major Requirements <a name="majorrequirements"></a>
 There’s very little wiggle room here. You have to take these classes. I’m separating CS Electives into the next section because you have more freedom to choose classes from a pool, but note that those CS Electives technically fall under “Major Requirements” too.
@@ -165,7 +189,6 @@ There’s very little wiggle room here. You have to take these classes. I’m se
 The lower division requirements are the only CS courses you can transfer from Community Colleges. You’ll easily find CC courses that cover all three of the courses listed above, but not for anything below. See the Community College section for more details.
 
 #### Upper Division Requirements
-
 | Code    | Course            | Notes |
 |:---------:|:---------------------------------------------|:-------|
 | CS 146  | Data Structures and Algorithms              |       |
