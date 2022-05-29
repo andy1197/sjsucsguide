@@ -5,9 +5,7 @@ This guide can also be read on [Google Docs](https://docs.google.com/document/d/
 
 > :warning: **Warning:** This marker indicates that the text is especially important.
 
-> :rat: **Rat:** This is a rat.
-
-If you're interested in contributing, check out contribute.md in this repository.
+> :rat: **Rat:** This marker indicates that there is a rat.
  
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -24,9 +22,10 @@ If you're interested in contributing, check out contribute.md in this repository
     1. [MyProgress](#myprogress)
     2. [4-Year Plan](#fouryear)
     3. [Choosing Classes](#choosingclasses)
-    4. [GE Recommendations](#gerecs)
-    5. [Professors](#professors)
-    6. [Online Classes](#onlineclasses)
+    4. [CS Course Difficulties](#difficulty)
+    5. [GE Recommendations](#gerecs)
+    6. [Professors](#professors)
+    7. [Online Classes](#onlineclasses)
 5. [Getting Ahead](#gettingahead)
     1. [AP Credits](#apcredits)
     2. [Community College](#communitycollege)
@@ -302,6 +301,34 @@ Choosing classes for your first semester is different. You’ll choose classes o
    * You’ll have to add the classes to your cart one at a time, but it’s worth it.
 * MyPlanner (another built-in MySJSU service) allows you to easily make a visual weekly schedule from classes in your MySJSU shopping cart.
 
+### CS Course Difficulties <a name="difficulty"></a>
+It’s important to have a good idea of how difficult the required classes are so you can avoid stacking too many of the difficult ones into the same semester. Note that your mileage may vary drastically based on your professor and your own strengths/weaknesses. 
+
+> :warning: **Note:** These ratings are crowdsourced from the CS student body at SJSU. Take them with a grain of salt. Students have different learning styles and strengths. These students take these classes with different professors, all with different teaching styles.
+ 
+Rankings are on a scale from 1-10.
+
+| Code    | Course            | Time | Difficulty | Notes |
+|:---------:|:---------------------------------------------|:-------|:------:| :--- |
+| MATH 30  | Calculus 1              |       | 10 | Notes |
+| MATH 31  | Calculus 2              |       | 10 | Notes |
+| MATH 32  | Calculus 3             |       | 10 | Notes |
+| MATH 39  | Linear Algebra              |       | 10 | Notes |
+| MATH 161A  | Applied Probability and Statistics              |       | 10 | Notes |
+| PHIL 134  | Computers, Ethics, and Society              |       | 10 | Notes |
+| CS 46A  | Introduction to Programming              |       | 10 | Notes |
+| CS 46B | Introduction to Data Structures             |       | 10 | Notes |
+| CS 146  | Data Structures and Algorithms              |       | 10 | Notes |
+| CS 147  | Computer Architecture                       |       | 10 | Notes |
+| CS 149  | Operating Systems                           |       | 10 | Notes |
+| CS 151  | Object-Oriented Design                      |       | 10 | Notes |
+| CS 152  | Programming Paradigms                       |       | 10 | Notes |
+| CS 154  | Formal Languages and Computability          |       | 10 | Notes |
+| CS 157A | Introduction to Database Management Systems |       | 10 | Notes |
+| CS 160  | Software Engineering                        |       | 10 | Notes |
+| CS 166  | Information Security                        |       | 10 | Notes |
+|<img width=100/>| <img width=200/>| <img width=80/> |<img width=80/> | <img width=600/> |
+
 ### GE Recommendations <a name="gerecs"></a>
 For GEs (especially Area RSV), I often prioritized “easiness” over other factors since I was taking difficult CS upper-division courses at the same time.
 
@@ -442,7 +469,7 @@ You’ll have more options for Summer courses, but I’d assume looking for a sp
 
 * Taking CS 146 earlier also opens your course options significantly given that it is the prerequisite for nearly all upper-division CS courses. However, the class is already challenging on a normal semester schedule and will be even more difficult in the Summer/Winter. Tread with caution.
 
-* To find courses offered during summer, use the MySJSU class search function. The process detailed in CHOOSING CLASSES can be used by changing the desired term to “Summer” or “Winter”.
+* To find courses offered during summer, use the MySJSU class search function. The process detailed in [Choosing Classes](#choosingclasses) can be used by changing the desired term to “Summer” or “Winter”.
 
 * Let me remind you again that [It’s not a race](#readmesection). Be honest with yourself, know your capabilities, and don’t sacrifice mental health just to graduate a semester early.
 
@@ -672,7 +699,7 @@ DOUBLE CHECK THESE DEADLINES ON YOUR OWN!
 </details>
 
 <details open>
-<summaryAny% Speedrun</summary>
+<summary>Any% Speedrun</summary>
  
 * Take a CS 46A equivalency class at a community college the summer before starting at SJSU. Make sure the class is taught in Java, or you’ll need to take CS 49J as well before applying to switch majors. Check out CC Classes and Articulation.
 * Take CS 46B and MATH 42 in your first semester at SJSU.
@@ -722,10 +749,14 @@ Peer Connections tutors most subjects but doesn’t go too deep into CS upper di
 COSAC will cover more CS upper division courses but won’t cover anything non-science.
 
 ### Office Hours <a name="officehours"></a>
-Go to office hours.
+The average student criminally under-utilizes office hours. Too many students don’t ask for help when they’re confused (myself included), often due to laziness, procrastination, anxiety/fear of looking dumb, or a combination of all three. It is incredibly easy to snowball in classes, especially for CS topics that build off of each other.
+* If you’re confused on a topic or slightly falling behind and the reason you’re not going to office hours is due to laziness or procrastination, I’ll give you a swift, virtual kick and tell you to go. It’ll only benefit yourself.
+* If you feel anxiety or fear looking dumb in front of your professor, I will say that the vast, vast majority of professors (and all of the professors I’ve had the experience of learning from), won’t judge you for being confused. Many professors rarely get feedback from students, so your own experience can actually help the professor measure how effective their teaching is mid-semester instead of having to wait for course evaluations at the end. And honestly, your professor has 100% seen worse.
+
+Please go to office hours if you need help. Don't wait.
 
 ### Email Etiquette <a name="email"></a>
-< :warning: **BEFORE YOU SEND A SINGLE EMAIL, [please read this](https://www.unr.edu/writing-speaking-center/student-resources/writing-speaking-resources/email-etiquette-for-students). Your professors will thank you.**
+> :warning: **BEFORE YOU SEND A SINGLE EMAIL, [please read this](https://www.unr.edu/writing-speaking-center/student-resources/writing-speaking-resources/email-etiquette-for-students). Your professors will thank you.**
 
 ### Calendars
 I strongly encourage you to utilize Google Calendar or a similar agenda/calendar service. Before the semester begins, I would add all of my class times to my Google Calendar. Once the semester begins and syllabi are released, I would spend 1-2 hours populating it with Office Hours, due dates for homework assignments, and quiz/exam dates.
@@ -735,6 +766,6 @@ I’ve included a snapshot of last week to give you an idea of what my calendar 
 ![pasted image 0](https://user-images.githubusercontent.com/66895883/170854284-f4f11fcd-7d6f-40ee-a860-d04aedefec55.png)
 
 ## Afterword
-Feel free to share this document with this compressed link: bit.ly/SJSU-CS-Guide. Don’t hesitate to contact us if you have questions, catch an error, or want to contribute.
+Feel free to share this document with this compressed link: [bit.ly/SJSU-CS-Guide](bit.ly/SJSU-CS-Guide). Don’t hesitate to contact us if you have questions, catch an error, or want to contribute.
 
 Cheers! 
