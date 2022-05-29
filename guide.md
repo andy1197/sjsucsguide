@@ -23,9 +23,10 @@ If you're interested in contributing, check out contribute.md in this repository
 4. [Planning](#planning)
     1. [MyProgress](#myprogress)
     2. [4-Year Plan](#fouryear)
-    3. [GE Recommendations](#gerecs)
-    4. [Professors](#professors)
-    5. [Online Classes](#onlineclasses)
+    3. [Choosing Classes](#choosingclasses)
+    4. [GE Recommendations](#gerecs)
+    5. [Professors](#professors)
+    6. [Online Classes](#onlineclasses)
 5. [Getting Ahead](#gettingahead)
     1. [AP Credits](#apcredits)
     2. [Community College](#communitycollege)
@@ -286,6 +287,21 @@ A 4-year plan is actually required (at least back in 2019) if you want to apply 
 
 </details>
 
+### Choosing Classes <a name="choosingclasses"></a>
+Your best bet is to follow the [official tutorial](https://www.sjsu.edu/classes/register/index.php) for this.
+
+**First-time Freshmen:** 
+
+Choosing classes for your first semester is different. You’ll choose classes on your orientation date, and you’ll be blocked into your required classes (the school will reserve important major classes for you). For example, if you have CS 46A credit, your reserved classes at orientation will probably be CS 46B and Math 42. In my experience, you’ll usually have one or two section options to choose from for each class. Past those blocked in classes, any other class is basically a free-for-all, and having an earlier orientation date will be advantageous. If your orientation date is later, having to be a bit less picky about GEs is really the only disadvantage.
+
+**Here are some niche tips the tutorials might not cover:** 
+* You can expand Additional Search Criteria to make more specific queries (online, offline, meeting times, meeting days, professor)
+   * If you open the Requirement Designation dropdown, you can specify exactly what GE area you want to cover
+* Add all sections of a desired course to your shopping cart to keep an eye on them
+   * Sometimes, class details/times aren’t finalized
+   * You’ll have to add the classes to your cart one at a time, but it’s worth it.
+* MyPlanner (another built-in MySJSU service) allows you to easily make a visual weekly schedule from classes in your MySJSU shopping cart.
+
 ### GE Recommendations <a name="gerecs"></a>
 For GEs (especially Area RSV), I often prioritized “easiness” over other factors since I was taking difficult CS upper-division courses at the same time.
 
@@ -361,47 +377,83 @@ For the most part, MyProgress will do the work for you. You can manually check t
 | Computer Science Principles | 3     | Elective Credit, GE Area B4.</br> :warning: Note that but this isn’t considered the CS Electives that the major requires |
 |<img width=200/>|<img width=50/>|<img width=1000/>|
 
+SJSU also grants credit for [CLEP](https://testing.sjsu.edu/clep/) (College Level Examination Program), but I don’t have any experience with it.
 
 ### Community College <a name="communitycollege"></a>
 Community College (CC) classes are a good way to take the pressure off of the “15 units per semester” requirement to graduate in 4 years. They are far cheaper than taking Winter/Summer classes at SJSU and are usually easier across the board.
 
-SJSU runs on a semester system, so transferring units from a school running on a quarter system results in decimal unit counts. If you’re trying to hit a numerical unit count minimum (The 14-unit CSCI requirement comes to mind), be extra careful: 4 unit courses at a quarter-based school will not be 4 units at SJSU. Otherwise, quarter units will cover GE/major requirements even if they are only 2.67 units upon translation. You can check if a school is quarter or semester based with a simple Google search.
+SJSU runs on a semester system, so transferring units from a school running on a quarter system results in decimal unit counts. If you’re trying to hit a numerical unit count minimum (The 14-unit CSCI requirement comes to mind), be extra careful: 4 unit courses at a quarter-based school will not be 4 units at SJSU. Otherwise, quarter units will cover GE/major requirements even if they are only 2.67 units upon translation. You can check if a school is quarter or semester based with a simple Google search. 
 
-Articulation Agreements are transfer equivalency agreements between SJSU and another school.
+Here's a quarter/semester conversion chart:
 
-If you want cover a major requirement: Major Specific Articulation 
+<p align="center">
+<img  alt="Screen Shot 2021-04-30 at 7 11 20 PM" src="https://user-images.githubusercontent.com/66895883/170852897-7bcf8f9b-241e-460b-89af-12c39760c84e.png">
+</p>
 
-If you want to cover a GE requirement: GE Articulation
+**Articulation Agreements** 
+
+...are transfer equivalency agreements between SJSU and another school.
+
+If you want cover a major requirement: [Major Specific Articulation](http://transfer.sjsu.edu/web-dbgen/artic/all-course-to-course.html) 
+
+If you want to cover a GE requirement: [GE Articulation](http://transfer.sjsu.edu/web-dbgen/artic/all-ge.html)
 
 To check if an SJSU requirement you wish to cover can be covered at a CC, find the CC you wish to take courses at and look for SJSU’s version of the course. For example, if you wish to cover CS 46A at DeAnza College, look for CS 46A on DeAnza’s Course-to-Course Articulation page.
 
+<p align="center">
+<img width="800" alt="Screen Shot 2021-04-30 at 7 11 20 PM" src="https://user-images.githubusercontent.com/66895883/170852984-7dcc3f5b-ade1-456c-b2b0-874d51747860.png">
+</p>
+
 It’s admittedly a bit unclear what exactly clears CS 46A due to the AND and ORs. It’s clear whoever designed these requirements is putting their CS degree to good use. If you have any doubts, ask your advisor.
 
-Note that some schools/courses don’t have direct articulation agreements. I believe you can try to petition for Transfer Equivalency in this case, but your case needs to be airtight.
+Note that some schools/courses don’t have direct articulation agreements. I believe you can try to petition for [Transfer Equivalency](https://www.sjsu.edu/essc/coe-undergraduate-advising/transfer-credit/transfer-equivalency.php) in this case, but your case needs to be airtight.
 
-Another resource to find equivalent transfer courses is assist.org, which generates a list of course agreements between two colleges. Note that the website can be inconsistent at times (SJSU + De Anza’s agreements seem to be missing a few), so I’d encourage you to use the articulation links above as your primary source.
+Another resource to find equivalent transfer courses is [assist.org](https://assist.org/), which generates a list of course agreements between two colleges. Note that the website can be inconsistent at times (SJSU + De Anza’s agreements seem to be missing a few), so I’d encourage you to use the articulation links above as your primary source.
+
+**Community College Recommendations**
+
+* Semester: Ohlone, San Jose City, Mission, West Valley
+* Quarter: De Anza, Foothill (these two share a portal, which makes ordering transcripts easy)
+
+**Further Advice**
+
+* If you’re an incoming freshman...
+   * ...consider taking a summer class to knock out a major requirement (or GE)
+   * ...and do not have credit for CS 46A or 46B, consider taking the next course in your path (46A → 46B → 146) at CC the summer before your first college semester. As previously mentioned, 146 is basically the mother of all CS prerequisites, so doing this will shift your CS-specific plan one semester forwards.
+      * If you do this, you’ll need to ask for an [add code](#waitlistsandaddcodes) for the next class down the line, as you wouldn’t have the necessary prerequisites by the time you register for classes. This does give you a good excuse to get the add code early.
+* Send your CC transcripts ASAP, especially if those classes are prerequisites. The team that handles transcripts usually takes at least 5-6 weeks to update your information after receiving them.
+* You’ll need to apply for the CC to attend. Check the specific college’s website for instructions.
+* As students at a 4-year university, your registration priority won’t be super high. Be prepared with a list of classes and don’t expect to get your first choice.
+* In general, summer classes tend to fill up very quickly. Apply early and have a list of backup classes.
+* CCs will basically never have classes that cover upper division courses. For CS majors, this means CS 46A, CS 46B, and CS 47 mark the end of transferable major requirements. Most people use CC to knock out GE requirements anyways, but keep this in mind.
  
 ### Special Sessions <a name="specialsessions"></a>
-SJSU offers select courses during the Winter and Summer sessions. Winter courses usually last only a month but are incredibly time consuming. Expect to meet multiple days of the week for hours at a time.
+SJSU offers select courses during the [Winter](https://www.sjsu.edu/winter/schedule/) and [Summer](https://www.sjsu.edu/summer/) sessions. Winter courses usually last only a month but are incredibly time consuming. Expect to meet multiple days of the week for hours at a time. 
 
-You’ll have more options for Summer courses, but I’d assume looking for a specific class narrows down your scheduling options. This screenshot is pulled directly from the webpage linked above for the Summer of 2021. The 10-week session is still faster paced than the traditional semester class, but is more manageable.
+You’ll have more options for Summer courses, but I’d assume looking for a specific class narrows down your scheduling options. This screenshot is pulled directly from the webpage linked above for the Summer of 2022. The 10-week session is still faster paced than the traditional semester class, but is more manageable.
 
-The costs are incredibly steep if you don’t have a FAFSA scholarship. I’d strongly encourage against enrolling in a special session for courses that have equivalencies at community colleges, and I’d simply enroll at the community college instead. There may be exceptions for popular classes (like CS 46A) you aren’t confident you can get at a CC, but even then, I’d try my hand at CC first.
+<p align="center">
+<img width="800" alt="Screen Shot 2021-04-30 at 7 11 20 PM" src="https://user-images.githubusercontent.com/66895883/170853160-2c231acc-5144-46c7-879a-302d87d94deb.png">
+</p>
 
-I’d consider enrolling in special session courses for classes without community college equivalencies. For example, you can’t take Area RSV courses before taking CS 100W. You may consider taking CS 100W in the Summer session to open your course options up.
+* **The costs are incredibly steep if you don’t have a FAFSA scholarship.** I’d strongly encourage against enrolling in a special session for courses that have equivalencies at community colleges, and I’d simply enroll at the community college instead. There may be exceptions for popular classes (like CS 46A) you aren’t confident you can get at a CC, but even then, I’d try my hand at CC first.
 
-Taking CS 146 earlier also opens your course options significantly given that it is the prerequisite for nearly all upper-division CS courses. However, the class is already challenging on a normal semester schedule and will be even more difficult in the Summer/Winter. Tread with caution.
+* **I’d consider enrolling in special session courses for classes without community college equivalencies.** For example, you can’t take Area RSV courses before taking CS 100W. You may consider taking CS 100W in the Summer session to open your course options up.
 
-To find courses offered during summer, use the MySJSU class search function. The process detailed in CHOOSING CLASSES can be used by changing the desired term to “Summer” or “Winter”.
+* Taking CS 146 earlier also opens your course options significantly given that it is the prerequisite for nearly all upper-division CS courses. However, the class is already challenging on a normal semester schedule and will be even more difficult in the Summer/Winter. Tread with caution.
 
-Let me remind you again that It’s not a race. Be honest with yourself, know your capabilities, and don’t sacrifice mental health just to graduate a semester early.
+* To find courses offered during summer, use the MySJSU class search function. The process detailed in CHOOSING CLASSES can be used by changing the desired term to “Summer” or “Winter”.
+
+* Let me remind you again that [It’s not a race](#readmesection). Be honest with yourself, know your capabilities, and don’t sacrifice mental health just to graduate a semester early.
 
 ### Unit Overloading <a name="unitoverloading"></a>
-I’m not going to discuss this in detail as unit overloading is generally discouraged unless you’re confident you can complete extra units or desperately need to overload. I wanted to write this section just so you know such an option is possible.
+I’m not going to discuss this in detail as unit overloading is generally discouraged unless you’re confident you can complete extra units or desperately need to overload. This is here just so you know it's possible.
 
-You can look into the unit limits and petitions here:
+You can look into the [unit limits](https://www.sjsu.edu/registrar/registration/enrollment-limit-waitlist.php#:~:text=All%20Undergraduate%20students%20have%20an,Friday%2C%20June%2024%2C%202022.) and [petitions](https://www.sjsu.edu/registrar/forms/) here:
 
-You can also “unofficially” overload if you take a class at a Community College during your semesters. Once again, be honest with yourself and your capabilities.
+You can also “unofficially” overload if you take a class at a Community College during your semesters. The more official way to take classes at another college concurrently can be found in [Special Enrollment Programs](https://www.sjsu.edu/registrar/registration/special-enrollment-programs/index.php). I think going through the official process saves you some tuition fees at the second institution, but don't quote me. 
+
+Once again, be honest with yourself and your capabilities if you overload units.
 
 ## Advising & Registration <a name="advisingandregistration"></a>
 Your advisor is human. They make mistakes. And while there are certainly “bad” advisors here at SJSU, there are many good ones, and doing your due diligence will make your experiences with advisors—regardless of how “good” they are—much smoother. I’ve never actually had a bad advising experience, but I’m not sure whether that’s because I always came overly prepared or if I got lucky.
@@ -410,25 +462,45 @@ Use MyProgress to its fullest. Build a 4-year plan (it doesn’t have to be fina
 
 ### Holds
 
-very semester, COSAC (College of Science Advising Center) places a hold on science students that require them to meet with their advisor. Otherwise, they are unable to view registration dates on release or enroll in courses for the next semester. The following search will give you all the information you need to sign up for an appointment:
+Every semester, COSAC (College of Science Advising Center) places a hold on science students that require them to meet with their advisor. Otherwise, they are unable to view registration dates on release or enroll in courses for the next semester. The following search will give you all the information you need to sign up for an appointment:
+
+[COSAC Advising](https://www.sjsu.edu/cosac/advising/)
 
 For students who have not yet passed CS 146, major advising is general. Schedule an appointment early (set your appointment date to around mid-semester), because the schedule fills in quickly and you don’t want to be that student that can’t enroll in classes on registration day because they forgot to remove their hold.
 
+[SJSU CS Advisors](https://www.sjsu.edu/cs/students/advising/advisors.php)
+
 Advising differs for students that have passed CS 146. Once you do, you’re assigned a CS faculty member who you’re responsible for contacting on your own to schedule an appointment with. Follow this search for the list of advisors:
 
-Advisors will not plan out your next semester classes for you (unless the classes are absolutely required and there is no variation), and you’ll be fully responsible for doing so. Before your meeting, be prepared with at least your course plan for the next semester (and ideally more than that). Advisors are there to tweak, advise, and approve your plan, not to make it.
+Advisors will not plan out your next semester classes for you (unless the classes are absolutely required and there is no variation), and you’ll be fully responsible for doing so. Before your meeting, be prepared with at least your course plan for the next semester (and ideally more than that). 
+
+> :warning: **Note:** Advisors are there to tweak, advise, and approve your plan, not to make it.
 
 ### Registration <a name="registration"></a>
-Registration dates are usually released a few months before the new semester, but you won’t be able to see them until your holds are removed (which is why this section is coupled with Advising). You can find the registration dates for your specific semester by searching SJSU Registration Dates.
+Registration dates are usually released a few months before the new semester, but you won’t be able to see them until your holds are removed (which is why this section is coupled with Advising). You can find the registration dates for your specific semester on [SJSU's official calendar](https://www.sjsu.edu/registrar/calendar/).
 
-When you do remove your holds, navigate to MySJSU, and you should see Enrollment Dates on the right sidebar. Click Details and change the term if necessary.
+When you do remove your holds, navigate to MySJSU, and you should see Enrollment Dates on the right sidebar. Click Details and change the term if necessary. Here's a tutorial, if needed.
+
+<p align="center">
+<img width="300" alt="Screen Shot 2021-04-30 at 7 11 20 PM" src="https://user-images.githubusercontent.com/66895883/170853579-9c656add-e222-4838-be04-60ed6e9cbc84.png">
+</p>
+
+**How Registration Priority Works**
 
 Basically, being in certain groups will give you earlier registration dates and times. General rules of thumb are as follows, but click the link above for more details:
 
 * Graduating Seniors → Seniors → Juniors → Sophomores → Freshman
-* You have to apply for graduation status (usually during the semester before you hit 90 units or have 2 more semesters left), and there’s a deadline for your application if you wish to have priority registration the next semester. Find the specific deadline and plan ahead.
+   * You have to apply for graduation status (usually during the semester before you hit 90 units or have 2 more semesters left), and there’s a deadline for your application if you wish to have priority registration the next semester. Find the specific deadline and plan ahead.
 * Special Groups (highest priority): note-takers, athletes, veterans, etc…
 * If you fail a class and want to retake it, your priority is lower
+
+**Note Taking** 
+
+ I’ve never done note-taking myself, so I don’t know much about it. Basically, you take notes and send to those with AEC (Accessible Education Center) needs (e.g. disabilities). I’m not sure how consistent getting the role is or anything else about it. If this is something you’d be interested in, I would ask around.
+
+**California Promise Program** 
+
+Another way to receive a sooner registration time is to join the [SJSU California Promise Program](https://catalog.sjsu.edu/content.php?catoid=10&navoid=762). From my understanding, this program won’t allow you to “hop out” of your group (a Freshman in the program is still lower priority than all Sophomores), but will make you a priority within your group.
 
 ### Waitlists & Add Codes <a name="waitlistsandaddcodes"></a>
 SJSU’s waitlist technically becomes useless on the first day of instruction. The professor can save the waitlist order themselves, but if you aren’t actually enrolled in the class by the first day, consider the waitlist nonexistent.
@@ -456,20 +528,21 @@ Regardless of how the professor whose class you’re interested in grants add co
 > :warning: **Warning:** Receiving an add code for a popular course, especially if you're not a graduating senior, is extremely inconsistent. Make sure you’re already enrolled for a backup class that you can later drop if you receive an add code for the desired course.
 
 ## Transfers
+
 ### Transfer Registration <a name="transferregistration"></a>
 Transfers I’ve talked to were able to enroll in classes before their final CC quarters were over and had their final transcripts sent in. For a more specific reference, they were able to register for Fall 2021 classes starting June 9th, 2021.
 
 Your registration date will be later than all students who are already attending, but this actually isn’t as bad as it sounds. You’re essentially locked from taking CS electives anyways since all of them require 146—assuming you took the CS 46B and CS 47 equivalencies at your CC, the two most relevant CS classes you’ll have access to are CS 146 (Data Structures and Algorithms) and CS 147 (Computer Architecture). The department knows that these are major required courses and makes sure to provide plenty of sections for transfers and 4-year students alike.
 
 ### Transfer Advising <a name="transferadvising"></a>
-Advising for transfer students (especially if you start in a Fall semester) is weird. During summer, the traditional advisors list are (hopefully) enjoying their summers and aren’t obligated to advise. Hence, if the timing of your class enrollment period falls during the summer, refer to the CS advising page for who to contact for advising during the summer (usually a specific email or the CS department mailbox).
+Advising for transfer students (especially if you start in a Fall semester) is weird. During summer, the traditional advisors list are (hopefully) enjoying their summers and aren’t obligated to advise. Hence, if the timing of your class enrollment period falls during the summer, refer to the [CS advising page](https://www.sjsu.edu/cs/advising/advisors.php) for who to contact for advising during the summer (usually a specific email or the CS department mailbox).
 
-If you’re seeking advice not during the summer and you haven’t passed CS 146 (which should be the norm if you’re an incoming transfer), I believe you should contact COSAC for advising. You can find more details on advising in the HOLDS section.
+If you’re seeking advice not during the summer and you haven’t passed CS 146 (which should be the norm if you’re an incoming transfer), I believe you should contact COSAC for advising. You can find more details on advising in the [Holds](#holds) section.
 
 ### Choosing Your First Semester Classes <a name="firstsemclasses"></a>
 CS 146 is a must-have. It single handedly unlocks the vast majority of CS electives and CS major requirements, so take it as soon as possible.
 
-**Major Requirements with no CS 146 prereq*
+**Major Requirements that don't require CS 146**
 * CS 151: Object-Oriented Programming
 * CS 154: Formal Languages & Computability
 * CS 147: Computer Architecture
@@ -479,27 +552,34 @@ From there, the rest of your class list depends on how much time and effort you�
 * Take CS 146 as soon as possible
 * Taking CS 151 early won’t hurt, and you can essentially treat it like an “Advanced X” class where you mainly learn about good object-oriented programming practices in X language (my professor used Java, but I hear some professors use other common languages)
 * In addition to CS 146, I’d suggest taking at most two more “difficult” classes (and strongly suggest only one). Fill the rest in with easier classes. Of course, you know your capabilities the best, so you make the call at the end of the day.
-* Difficult classes include: Advanced Math (MATH 32, 142, 161A), CS 147
-* Medium difficulty classes: CS 151, CS 154 (heavily professor dependent, see the Major Requirement Difficulty section in COURSES)
-* Easy (but potentially time consuming) classes include: CS 100W, PHIL 134, Area R, Area S
-* You can see my full thoughts/recommendations on the classes (and Areas R/S) above in the GE RECOMMENDATIONS subsection and PROGRAM OVERVIEW section.
+   * Difficult classes include: Advanced Math (MATH 32, 142, 161A), CS 147
+   * Medium difficulty classes: CS 151, CS 154 (heavily professor dependent, see the Major Requirement Difficulty section in COURSES)
+   * Easy (but potentially time consuming) classes include: CS 100W, PHIL 134, Area R, Area S
+   * You can see my full thoughts/recommendations on the classes (and Areas R/S) above in the [GE Recommendations](#gerecs) section.
 * Some example schedules:
-* CS 146, CS 147, CS 100W, PHIL 134, Area R
-* CS 146, Advanced Math, CS 100W, Area R, CS 151
-* CS 146, CS 151, CS 100W, PHIL 134, Area S
+   * CS 146, CS 147, CS 100W, PHIL 134, Area R
+   * CS 146, Advanced Math, CS 100W, Area R, CS 151
+   * CS 146, CS 151, CS 100W, PHIL 134, Area S
 
 ### 2-Year Plan <a name="twoyearplan"></a>
-The CS department has a 2-year plan for transfer students. The 2020-21 plan assumes you took 46A/B in a different language at CC and need 49J, and thus suggests taking 146 in your second semester. Their plan also assumes you have a PE-waiver. I’m not sure CS majors could get a waiver the last time I checked, but things might’ve changed, so I’d ask an advisor. My advice for “first semester classes” below differs slightly.
+The CS department has a 2-year plan for transfer students. The 2020-21 plan assumes you took 46A/B in a different language at CC and need 49J, and thus suggests taking 146 in your second semester. Their plan also assumes you have a PE-waiver. CS transfers, unlike those who enter as freshman, do qualify for a PE waiver. This information can be found in [Major Exceptions and Modifications for GE and SJSU Studies](https://catalog.sjsu.edu/content.php?catoid=10&navoid=664).
 
-Your required classes are the same as a 4-year student excluding lower division GEs and basic major classes (CS 46A, CS 46B, CS 47, Math 42, PHYS 50, PHYS 51, MATH 30, MATH 31). You can find a detailed list of the classes you need in the PROGRAM OVERVIEW section, and advice for building a plan can be found in the PLANNING section.
-
-CS transfers, unlike those who enter as freshman, do qualify for a PE waiver. This information can be found here.
+Your required classes are the same as a 4-year student excluding lower division GEs and basic major classes (CS 46A, CS 46B, CS 47, Math 42, PHYS 50, PHYS 51, MATH 30, MATH 31). You can find a detailed list of the classes you need in the [Program](#program) section, and advice for building a plan can be found in the [Planning](#planning) section.
 
 ## Outside the Classroom <a name="outsidetheclassroom"></a>
+
 ### Student Organizations <a name="studentorganizations"></a>
 Student organizations are great networking opportunities and offer a sense of community often devoid given SJSU’s “commuter school” status. Many CS/engineering-oriented organizations host speakers and provide easy access to projects, career guidance, and internship/job opportunities.
 
 You can find all SJSU recognized clubs here. Google search SJSU Clubs and Groups if the link breaks. Note that many, many of these clubs are inactive.
+
+I’ve gathered a list of active CS/CE clubs I’m aware of below. If you want your club added to the list, please email me with the name of the club and (if applicable) additional information and links.
+
+* [Machine Learning Club](https://mlatsjsu.club/)
+* [Software & Computer Engineering Society (SCE)](https://sce.engr.sjsu.edu/)
+* [CS Club](https://officialcsclubsjsu.wixsite.com/mysite)
+* [Hoplite](https://www.linkedin.com/company/sjsu-hoplite) (interview prep club)
+* Girls Who Code
 
 ### Internships
 wahoo get some internships!
@@ -522,17 +602,20 @@ Due to multiple people asking, I’m writing a small section on how to switch in
 The process to switch majors into CS is deliberately difficult. Demand for the major is so high relative to supply that I can’t imagine advisors aren’t burned out facilitating the process for likely hundreds of prospects every semester, so don’t take it personally if you feel there are significant delays during communication with advisors.
 
 ### The SJSU Job Security Myth <a name="jobsecurity"></a>
+
+> “Being at the heart of the Silicon Valley, SJSU students have a great advantage during internships and job searches!”
+
 I see this and similar sentiments thrown around a lot and thought I’d address it. Here’s the harsh truth (in my opinion): SJSU’s C.S. program is objectively average, or at least not as amazing as some people tout it to be. The program is solid but falls short compared to the mid to higher ranked UCs and similarly ranked private programs. Classes are easier due to more lenient curves and standards, natural results of laxer acceptance rates. The program itself does not go as technically in-depth as more difficult programs, research is few and far between, and elective options seem lacking at times.
 
 The program is absolutely worth it for the cost, but ignoring the cost-utility analysis, the program on its own is not special. You’re going to need to work just as hard if not harder than anyone else for internships and jobs. Your success in these areas is dependent primarily on your own abilities and efforts rather than your school name.
 
-The only advantage you have as an SJSU student is being at a closer proximity to physical internships during the school year. However, even this advantage is dwindling due to COVID pushing everything online. You’ll have virtually no advantage when applying for Summer internships, which are generally the highest regarded. Students from all over return to the Bay Area, and physical proximity is no longer an issue for them. At that point, you’ll be competing with the Cals, UCLAs, and Stanfords. And it’ll be your own ability, not your school name, that lands you that internship or job.
+The only advantage you have as an SJSU student is being at a closer proximity to physical internships during the school year. However, even this advantage is dwindling due to COVID pushing everything online. **You’ll have virtually no advantage when applying for Summer internships**, which are generally the highest regarded. Students from all over return to the Bay Area, and physical proximity is no longer an issue for them. At that point, you’ll be competing with the Cals, UCLAs, and Stanfords. And it’ll be your own ability, not your school name, that lands you that internship or job.
 
 Another “selling point” about SJSU I hear often is that many of the local Silicon Valley companies come to job fairs because of student quality and distance. But, in my experience, this is also very exaggerated. Rarely is there a company that exclusively comes to SJSU—they cast as wide of a net as possible to as many decent schools as they can to find talent, including SJSU. Packed job fairs with CS opportunities at any half-decent school are common, and at least based on my experience with them, not any more special at SJSU.
 
 I know it sounds like I’m absolutely bashing SJSU here, and that’s because I am being purposefully harsh for the sake of honesty. The CS program here is no doubt solid, but I find the reputation it has garnered a bit misleading.
 
-Pessimism aside, there are plenty of great things about the C.S. program and SJSU in general. One is that most professors are here only to teach and don’t have research commitments. Another is that class sizes are far, far smaller than UCs and you actually get to talk to your professors instead of only a TA. “Easier” coursework also means less stress (see this very interesting Stanford study on the concept of Big Fish Little Pond in education) and will allow you more time to build projects or pursue other interests outside of the classroom.
+Pessimism aside, there are plenty of great things about the C.S. program and SJSU in general. One is that most professors are here only to teach and don’t have research commitments. Another is that class sizes are far, far smaller than UCs and you actually get to talk to your professors instead of only a TA. “Easier” coursework also means less stress (see this very interesting Stanford study on the concept of [Big Fish Little Pond](https://ed.stanford.edu/news/stanford-education-study-provides-new-evidence-big-fish-little-pond-effect-students-globally#:~:text=%E2%80%9CBig%2Dfish%2Dlittle%2Dpond%E2%80%9D%20is%20a%20concept,achieving%20settings%20have%20more%20confidence.) in education) and will allow you more time to build projects or pursue other interests outside of the classroom.
 
 I wouldn’t be discouraged if you’re enrolling here—you’ll just need to work hard for what you want (which is a given at other schools, too). You’ll have plenty of smart, hardworking peers and great professors.
 
