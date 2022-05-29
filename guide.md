@@ -274,7 +274,7 @@ A 4-year plan is actually required (at least back in 2019) if you want to apply 
 <summary>Tips for plan design</summary>
  
 * Take CS 146 as soon as you possibly can (right after CS 46B). It’s the prerequisite course for nearly all other upper-division CS courses and will open your course options up significantly.
-* Don’t stack too many difficult CS classes at once. You can check out difficulty rankings in 
+* Don’t stack too many difficult CS classes at once. **You can check out difficulty rankings in**
 * Some GEs are difficult and/or time consuming, and others are a cakewalk. Make sure not to dismiss all GEs as “easy” and use them as schedule fillers. Do your research.
 * I finished all of my major requirements without mixing in more than a single elective. I now feel I would’ve had a more balanced schedule if I mixed more electives in.
 * Major requirements are generally more difficult than electives (though there certainly are exceptions)
@@ -289,6 +289,16 @@ For GEs (especially Area RSV), I often prioritized “easiness” over other fac
 
 If your objective is similar, you may consider the following courses. I’ve bolded what I ended up taking, but everything listed would have been fine options. Your mileage may vary based on the professor, so do your due diligence. I’d also love to add more course recommendations—please do shoot me a message/email.
 
+| GE | Area                                 | Recommendations                    |
+|:--:|--------------------------------------|----------------------------|
+| R  | Earth And Environment                | **NUFS 139 (Hunger and Environmental Nutrition)**<br/>**ASTR 101 (Modern Astronomy)** <br/>**PHIL 160 (Philosophy of Science)** |
+| S  | Self, Society, & Quality in the U.S. | **PHIIL 186 (Professional and Business Ethics)**<br/>**BIOL/ANTH 140 (Human Sexuality)**<br/>**KIN 101 (Sport in America)**                  |
+| B2 | Life Science                         | **GLST 1B (Intro to Global Studies)**                          |
+| E  | Human Understanding and Development  | **SCI 2 (Success in Science):** This course is pushed incredibly hard onto first-years and is basically a study/social/college skills class that requires regular check-ins with “peer mentors” and some busy work. It wasn't very useful for me (though it was an easy A) and I wouldn't necessarily recommend it, but it's not the end of the world if you're enrolled.<br/>**KIN 69 (Stress Management):** *"I heard you sleep for the first half of class"* - Professor Ben Reed                        |
+|<img width=20/>|<img width=300/>|<img width=1000/>|
+
+> 
+> 
 ### Professors <a name="professors"></a>
 RateMyProfessor ratings are usually very biased. Students who perform well are more likely to leave a positive review, while students who don’t perform well are more likely to leave a negative review. Since the CS department teaches many difficult classes, the latter is common.
 
