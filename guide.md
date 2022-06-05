@@ -3,10 +3,6 @@ A student-authored guide to help you navigate SJSU's computer science program.
 
 This guide can also be read on [Google Docs](https://docs.google.com/document/d/e/2PACX-1vRoO0eoezc97xF7Gvq3djVyYtB5gN0HfC7cFjCeFqY-dLTSaziCgdhXPJj1Jmbb9b9U22REtwMrumJM/pub).
 
-> :warning: **Warning:** This marker indicates that the text is especially important.
-
-> :rat: **Rat:** This marker indicates that there is a rat.
-
 ## Table of Contents
 1. [Introduction](#introduction)
     1. [Overview](#overview)
@@ -276,7 +272,7 @@ A 4-year plan is actually required (at least back in 2019) if you want to apply 
 <summary>Tips for plan design</summary>
  
 * Take CS 146 as soon as you possibly can (right after CS 46B). It’s the prerequisite course for nearly all other upper-division CS courses and will open your course options up significantly.
-* Don’t stack too many difficult CS classes at once. **You can check out difficulty rankings in**
+* Don’t stack too many difficult CS classes at once. **You can check out crowdsourced [difficulty rankings](#difficulty) for CS major classes. **
 * Some GEs are difficult and/or time consuming, and others are a cakewalk. Make sure not to dismiss all GEs as “easy” and use them as schedule fillers. Do your research.
 * I finished all of my major requirements without mixing in more than a single elective. I now feel I would’ve had a more balanced schedule if I mixed more electives in.
 * Major requirements are generally more difficult than electives (though there certainly are exceptions)
@@ -312,15 +308,15 @@ Rankings are on a scale from 1-10.
 
 | Code    | Course            | Time | Difficulty | Notes |
 |:---------:|:---------------------------------------------|:-------:|:------:| :--- |
-| MATH 30  | Calculus 1              |   5    | 10 | Notes |
-| MATH 31  | Calculus 2              |   6.5    | 10 | Notes |
-| MATH 32  | Calculus 3             |   4    | 10 | Notes |
-| MATH 39  | Linear Algebra              |    4   | 10 | Notes |
+| MATH 30  | Calculus 1              |   5    | 7 | Notes |
+| MATH 31  | Calculus 2              |   6.5    | 9 | Notes |
+| MATH 32  | Calculus 3             |   4    | 5 | Notes |
+| MATH 39  | Linear Algebra              |    4   | 4 | Notes |
 | MATH 161A  | Applied Probability and Statistics              |  n/a     | n/a | Notes |
 | PHIL 134  | Computers, Ethics, and Society              |   2    | 1 | Notes |
 | CS 46A  | Introduction to Programming              |    5   | 5 | Notes |
 | CS 46B | Introduction to Data Structures             |   5    | 5 | Notes |
-| CS 146  | Data Structures and Algorithms              |       | 7 | Notes |
+| CS 146  | Data Structures and Algorithms              |   6    | 7 | Notes |
 | CS 147  | Computer Architecture                       |   8    | 9 | Notes |
 | CS 149  | Operating Systems                           |   9   | 9 | Notes |
 | CS 151  | Object-Oriented Design                      |   5    | 4 | Notes |
