@@ -311,7 +311,7 @@ If you've taken any of these courses and would like to contribute, go [here](htt
 Rankings are on a scale from 1-10.
 
 | Code    | Course            | Time | Difficulty | Notes |
-|:---------:|:---------------------------------------------|:-------|:------:| :--- |
+|:---------:|:---------------------------------------------|:-------:|:------:| :--- |
 | MATH 30  | Calculus 1              |   5    | 10 | Notes |
 | MATH 31  | Calculus 2              |   6.5    | 10 | Notes |
 | MATH 32  | Calculus 3             |   4    | 10 | Notes |
