@@ -312,23 +312,23 @@ Rankings are on a scale from 1-10.
 
 | Code    | Course            | Time | Difficulty | Notes |
 |:---------:|:---------------------------------------------|:-------|:------:| :--- |
-| MATH 30  | Calculus 1              |       | 10 | Notes |
-| MATH 31  | Calculus 2              |       | 10 | Notes |
-| MATH 32  | Calculus 3             |       | 10 | Notes |
-| MATH 39  | Linear Algebra              |       | 10 | Notes |
-| MATH 161A  | Applied Probability and Statistics              |       | 10 | Notes |
-| PHIL 134  | Computers, Ethics, and Society              |       | 10 | Notes |
-| CS 46A  | Introduction to Programming              |       | 10 | Notes |
-| CS 46B | Introduction to Data Structures             |       | 10 | Notes |
-| CS 146  | Data Structures and Algorithms              |       | 10 | Notes |
-| CS 147  | Computer Architecture                       |       | 10 | Notes |
-| CS 149  | Operating Systems                           |       | 10 | Notes |
-| CS 151  | Object-Oriented Design                      |       | 10 | Notes |
-| CS 152  | Programming Paradigms                       |       | 10 | Notes |
-| CS 154  | Formal Languages and Computability          |       | 10 | Notes |
-| CS 157A | Introduction to Database Management Systems |       | 10 | Notes |
-| CS 160  | Software Engineering                        |       | 10 | Notes |
-| CS 166  | Information Security                        |       | 10 | Notes |
+| MATH 30  | Calculus 1              |   5    | 10 | Notes |
+| MATH 31  | Calculus 2              |   6.5    | 10 | Notes |
+| MATH 32  | Calculus 3             |   4    | 10 | Notes |
+| MATH 39  | Linear Algebra              |    4   | 10 | Notes |
+| MATH 161A  | Applied Probability and Statistics              |  n/a     | n/a | Notes |
+| PHIL 134  | Computers, Ethics, and Society              |   2    | 1 | Notes |
+| CS 46A  | Introduction to Programming              |    5   | 5 | Notes |
+| CS 46B | Introduction to Data Structures             |   5    | 5 | Notes |
+| CS 146  | Data Structures and Algorithms              |       | 7 | Notes |
+| CS 147  | Computer Architecture                       |   8    | 9 | Notes |
+| CS 149  | Operating Systems                           |   9   | 9 | Notes |
+| CS 151  | Object-Oriented Design                      |   5    | 4 | Notes |
+| CS 152  | Programming Paradigms                       |   7    | 8 | Notes |
+| CS 154  | Formal Languages and Computability          |   7    | 9 | Notes |
+| CS 157A | Introduction to Database Management Systems |   4    | 6 | Notes |
+| CS 160  | Software Engineering                        |   6    | 3 | Notes |
+| CS 166  | Information Security                        |   6    | 8 | Notes |
 |<img width=100/>| <img width=200/>| <img width=80/> |<img width=80/> | <img width=600/> |
 
 ### GE Recommendations <a name="gerecs"></a>
@@ -611,7 +611,7 @@ I’ve gathered a list of active CS/CE clubs I’m aware of below. If you want y
 * Girls Who Code
 
 ### Internships
-I'm not going to discuss the actual internship hunt/interview process because I am absolutely not qualified to dish out advice about it. There are far more insightful resources out there discussing how you can a CS internship. That being said, I have added some advice on studying and how best to tackle Leetcode based on my experience with Leetcode and several standardized tests.
+I'm not going to discuss the actual internship hunt/interview process because I am absolutely not qualified to dish out advice about it. There are far more insightful resources out there discussing how you can get a CS internship. That being said, I have added some advice on studying and how best to tackle Leetcode based on my experience with Leetcode and several standardized tests.
 
 **What is Leetcode?**
 
