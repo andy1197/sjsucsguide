@@ -256,6 +256,9 @@ All you need to know about reading the interface is introduced at the top of the
 </p>
 
 ### 4-Year Plan <a name="fouryear"></a>
+
+> :warning: **Warning:** Please check [AP Credits](#ap) and follow the advice there to determine which areas and courses you have already covered. Do this before creating any plans or registering for classes. You **do not** want to take a class for a requirement you've already covered. 
+
 A 4-year plan is very useful for advising meetings. It also gives you a good idea of your graduation timing, required classes, and long-term university plan as a whole.
 
 You can build an official 4-year plan in MyPlanner. Though, personally, I just made a table listing the remaining classes I needed adapted from MyProgress and roughly organized it into 4 years. For example, I would go back to the [Program](#program) section and write all the still-needed classes into a table, then cross-reference it with MyProgress to make sure all requirements were covered. Do whatever works best for you.
@@ -302,7 +305,7 @@ It’s important to have a good idea of how difficult the required classes are s
 
 If you've taken any of these courses and would like to contribute, go [here](https://docs.google.com/forms/d/e/1FAIpQLSdlQzObcPiyOctatjjxDckyv4rI1eDXo4T6CKpiT5zAGnfqqQ/formResponse).
 
-> :warning: **Note:** These ratings are crowdsourced from the CS student body at SJSU. Take them with a grain of salt. Students have different learning styles and strengths. These students take these classes with different professors, all with different teaching styles.
+> :warning: **Note:** These ratings are crowdsourced from the CS student body at SJSU. Take them with a grain of salt. Students have different learning styles and strengths. Professors have all kinds of different teaching styles.
  
 Rankings are on a scale from 1-10.
 
@@ -342,7 +345,7 @@ If your objective is similar, you may consider the following courses. I’ve bol
 
 ### Professors <a name="professors"></a>
 
-Similar to the CS electives sections, I'm going to refrain from Professor recommendations. First, I was only taught by a small portion of the CS faculty. Second, it's better for you gather insight from a variety of sources since everyone's experiences are so subjective. This guide seeks to be mainly informative rather than [recommendative](https://en.wiktionary.org/wiki/recommendative) (surprise surprise, that's a word!).
+Similar to the CS electives sections, I'm going to refrain from professor recommendations. First, I was only taught by a small portion of the CS faculty. Second, it's better for you gather insight from a variety of sources since everyone's experiences are so subjective. This guide seeks to be mainly informative rather than [recommendative](https://en.wiktionary.org/wiki/recommendative) (surprise surprise, that's a word!).
 
 **My Thoughts on RateMyProfessor:**
 RateMyProfessor ratings are usually very biased. Students who recieve a high grade tend to leave positive reviews, while those who don't tend to leave negative reviews. And since the CS department teaches difficult classes, negative reviews are pretty common. It's also more likely for someone to leave a review only if they had a negative experience with the class.
@@ -355,7 +358,7 @@ Students who perform averagely or don’t have any strong feelings about a class
 
 It’s also a good idea to be honest with yourself and your personal ability when reading reviews. How would you rate yourself in terms of learning speed, dedication, work ethic, and free time compared to the average SJSU student? You can use such a metric to determine which reviewers are most similar to you and get a vague idea of how you would do in a class.
 
-To summarize my advice: A professor with mediocre reviews isn’t necessarily a bad professor. Ask upperclassmen if you want more specific insight.
+To summarize my advice: A professor with mediocre reviews isn’t necessarily a bad professor, especially in the CS program since some classes are very difficult. Ask upperclassmen if you want more specific insight.
 
 ### Online Classes <a name="onlineclasses"></a>
 **Should I take online classes?**
@@ -659,7 +662,7 @@ Also, networking doesn’t just mean sending out LinkedIn requests to every prof
 
 [Department of Computer Science: Change of Major Policy](https://www.sjsu.edu/cs/students/undergrad-students/change-of-major.php)
 
-Due to multiple people asking, I’m writing a small section on how to switch into CS. The most updated information can be found with the search query above. PLEASE CHECK THESE REQUIREMENTS YOURSELF AND MEET WITH AN ADVISOR (generally one from your major) IF YOU HAVE ANY DOUBTS.
+Due to multiple people asking, I’m writing a small section on how to switch into CS. PLEASE CHECK THESE REQUIREMENTS YOURSELF AND MEET WITH AN ADVISOR (generally one from your major) IF YOU HAVE ANY DOUBTS.
 
 The process to switch majors into CS is deliberately difficult. Demand for the major is so high relative to supply that I can’t imagine advisors aren’t burned out facilitating the process for likely hundreds of prospects every semester, so don’t take it personally if you feel there are significant delays during communication with advisors.
 
